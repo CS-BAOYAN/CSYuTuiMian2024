@@ -47,6 +47,10 @@
 
 【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
 
+## 中国农业大学
+
+【报名截止：7.30】[工学院](https://coe.cau.edu.cn/art/2024/7/16/art_39155_1032531.html)
+
 ## 苏州大学
 
 > 计算机科学与技术学院(软件学院)分两批次考试，只能选择一个参加
@@ -62,6 +66,12 @@
 【报名截止：9.10】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/16583.htm)
 
 【报名截止：9.10】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
+
+【报名截止：9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/12219.html)
+
+【报名截止：9.2】[通信工程学院](https://ste.xidian.edu.cn/info/1337/8386.htm)
+
+【报名截止：9.30】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)
 
 ## 西安建筑科技大学
 
