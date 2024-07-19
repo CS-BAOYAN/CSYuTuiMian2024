@@ -14,6 +14,8 @@
 ## 清华大学
 
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
+> 
+> [清华大学2025年接收优秀应届本科毕业生免试攻读研究生报名通知(2024年8月23日12:00开放，2024年9月2日12:00关闭)](https://yz.tsinghua.edu.cn/info/1008/2796.htm)
 
 【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
 
