@@ -41,6 +41,10 @@
 
 【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
+## 上海交通大学
+
+【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
+
 ## 天津大学
 
 >[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
@@ -84,6 +88,10 @@
 ## 中国林业科学研究院
 
 【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
+
+## 南京农业大学
+
+【报名截止：9.23】[关于接收2025年推免生（含直博生）提前申请的通知](https://zsgz.njau.edu.cn/info/1007/1571.htm)
 
 ## 南京邮电大学
 
