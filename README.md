@@ -85,6 +85,10 @@
 
 【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
 
+## 上海科技大学
+
+【报名截止：9.20】[生命学院](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
+
 ## 中国医科大学
 
 【报名截止：N/A】[智能医学学院](https://www.cmu.edu.cn/znyx/info/1011/1621.htm)
