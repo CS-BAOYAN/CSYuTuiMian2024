@@ -85,13 +85,13 @@
 
 【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
 
+## 中国医科大学
+
+【报名截止：N/A】[智能医学学院](https://www.cmu.edu.cn/znyx/info/1011/1621.htm)
+
 ## 中国电力科学研究院
 
 【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
-
-## 中国林业科学研究院
-
-【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)
 
 ## 南京农业大学
 
@@ -136,7 +136,9 @@
 
 ## 南京理工大学
 
-【报名截止：7.20】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)
+【报名截止：N/A】[计算机学院](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
+
+~~【报名截止：7.20】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)~~
 
 ## 北京邮电大学
 
@@ -147,3 +149,7 @@
 ## 北京科技大学
 
 > [北京科技大学各培养单位接收2025年推荐免试硕士研究生（含直博生）预报名活动通知汇总](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+
+## 中国林业科学研究院
+
+~~【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)~~
