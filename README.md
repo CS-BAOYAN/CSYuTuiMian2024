@@ -55,6 +55,10 @@
 
 【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
 
+## 国防科技大学
+
+>[国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案(推免预报名时间：预计9月7日00:00至9月22日24:00)](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
+
 ## 中国农业大学
 
 【报名截止：7.30】[工学院](https://coe.cau.edu.cn/art/2024/7/16/art_39155_1032531.html)
