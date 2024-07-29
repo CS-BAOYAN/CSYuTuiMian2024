@@ -55,6 +55,8 @@
 
 【截止日期：8.6 18：00】[哈工大郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
 
+【截止日期：8.5 17：00】[哈工大计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
+
 ## 国防科技大学
 
 > [国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
