@@ -45,6 +45,20 @@
 
 【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
 
+## 哈尔滨工业大学
+
+> [哈尔滨工业大学关于接收 2025年推免生（含直博生）工作安排的通知](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
+
+【截止日期：8.6 18：00】[哈工大郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
+
+## 中国人民解放军军事科学院
+
+【报名截止：8.7】[中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
+
+## 海军工程大学
+
+> [海军工程大学2025年直招入伍研究生正式报名开始！](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
+
 ## 北京师范大学
 
 【报名截止：8.11】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
@@ -53,7 +67,7 @@
 
 【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
-【报名截止：7.28 17:00】[计算机科学与技术学院](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)
+~~【报名截止：7.28 17:00】[计算机科学与技术学院](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)~~
 
 ## 天津大学
 
@@ -91,6 +105,8 @@
 
 【报名截止：9.30】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)
 
+【报名截止：9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9854.htm)
+
 ## 西安建筑科技大学
 
 【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
@@ -105,7 +121,7 @@
 
 ## 中国电力科学研究院
 
-【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)
+~~【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)~~
 
 ## 南京农业大学
 
