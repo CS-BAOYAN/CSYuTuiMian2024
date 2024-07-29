@@ -41,6 +41,10 @@
 
 【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
+## 天津大学
+
+【截止日期：9.15】[天津大学佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
+
 ## 上海交通大学
 
 【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
@@ -51,9 +55,17 @@
 
 【截止日期：8.6 18：00】[哈工大郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
 
+## 国防科技大学
+
+> [国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
+
 ## 中国人民解放军军事科学院
 
 【报名截止：8.7】[中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
+
+## 空军工程大学
+
+【截止日期：8.8 18：00】[空军工程大学2025年直接选拔招录入伍攻读硕士研究生预报名通知](https://www.afeu.cn:1001/notice-announcement/462/)
 
 ## 海军工程大学
 
