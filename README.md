@@ -73,6 +73,10 @@
 
 > [海军工程大学2025年直招入伍研究生正式报名开始！](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
 
+## 中国人民解放军战略支援部队信息工程大学
+
+【截止日期：9.25 23：00】[中国人民解放军战略支援部队信息工程大学接收2025届地方院校应届本科毕业生推荐免试攻读硕士研究生的通知](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
+
 ## 北京师范大学
 
 【报名截止：8.11】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
@@ -82,6 +86,14 @@
 【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
 ~~【报名截止：7.28 17:00】[计算机科学与技术学院](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)~~
+
+## 东北大学
+
+> [东北大学2025年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
+
+## 大连理工大学
+
+> [关于大连理工大学各院系2025年接收推荐免试研究生预报名陆续开放的通知](https://gs.dlut.edu.cn/info/1173/14906.htm)
 
 ## 天津大学
 
