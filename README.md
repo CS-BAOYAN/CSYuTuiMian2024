@@ -101,6 +101,8 @@
 
 【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
+【报名截止：N/A】[软件所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
+
 ~~【报名截止：7.28 17:00】[计算机科学与技术学院](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)~~
 
 ## 东北大学
@@ -221,6 +223,8 @@
 ## 北京科技大学
 
 > [北京科技大学各培养单位接收2025年推荐免试硕士研究生（含直博生）预报名活动通知汇总](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+
+【报名截止：8.30 17:00】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
 ## 中国林业科学研究院
 
