@@ -43,7 +43,7 @@
 
 ## 天津大学
 
-【截止日期：9.15】[天津大学佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
+【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
 ## 上海交通大学
 
@@ -53,9 +53,15 @@
 
 > [哈尔滨工业大学关于接收 2025年推免生（含直博生）工作安排的通知](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
 
-【截止日期：8.6 18：00】[哈工大郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
+【截止日期：8.6 18：00】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
 
-【截止日期：8.5 17：00】[哈工大计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
+【截止日期：8.5 17：00】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
+
+【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
+
+## 北京航空航天大学
+
+【截止日期：8.14 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)
 
 ## 国防科技大学
 
@@ -91,7 +97,7 @@
 
 ## 中国人民解放军战略支援部队信息工程大学
 
-【截止日期：9.25 23：00】[中国人民解放军战略支援部队信息工程大学接收2025届地方院校应届本科毕业生推荐免试攻读硕士研究生的通知](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
+【截止日期：9.25 23：00】[中国人民解放军战略支援部队信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
 
 ## 北京师范大学
 
