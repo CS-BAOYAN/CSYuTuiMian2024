@@ -41,10 +41,6 @@
 
 【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
-## 天津大学
-
-【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
-
 ## 上海交通大学
 
 【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
@@ -126,6 +122,10 @@
 >[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
 【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+
+【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
+
+【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)
 
 ## 国防科技大学
 
