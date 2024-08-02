@@ -53,7 +53,9 @@
 
 > [哈尔滨工业大学关于接收 2025年推免生（含直博生）工作安排的通知](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
 
-【截止日期：8.6 18：00】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
+【截止日期：8.6 18：00】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)  
+
+【截止日期：8.8】[苏州研究院](https://sri.hit.edu.cn/2024/0724/c17245a349213/page.htm)
 
 【截止日期：8.5 17：00】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
 
