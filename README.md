@@ -35,11 +35,11 @@
 
 【报名截止：8.5 12:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
 
-【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)
-
 【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
 
-【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
+~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)~~
+
+~~【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
 
 ## 上海交通大学
 
@@ -131,10 +131,6 @@
 
 >[国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案(推免预报名时间：预计9月7日00:00至9月22日24:00)](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
 
-## 中国农业大学
-
-【报名截止：7.30】[工学院](https://coe.cau.edu.cn/art/2024/7/16/art_39155_1032531.html)
-
 ## 苏州大学
 
 > 计算机科学与技术学院(软件学院)分两批次考试，只能选择一个参加
@@ -158,10 +154,6 @@
 【报名截止：9.30】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)
 
 【报名截止：9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9854.htm)
-
-## 西安建筑科技大学
-
-【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
 
 ## 中国医科大学
 
@@ -222,17 +214,25 @@
 
 ~~【报名截止：7.20】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)~~
 
-## 北京邮电大学
-
-【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
-
-【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)
-
 ## 北京科技大学
 
 > [北京科技大学各培养单位接收2025年推荐免试硕士研究生（含直博生）预报名活动通知汇总](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
 
 【报名截止：8.30 17:00】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
+
+## 西安建筑科技大学
+
+~~【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)~~
+
+## 北京邮电大学
+
+~~【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)~~
+
+~~【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)~~
+
+## 中国农业大学
+
+~~【报名截止：7.30】[工学院](https://coe.cau.edu.cn/art/2024/7/16/art_39155_1032531.html)~~
 
 ## 中国林业科学研究院
 
