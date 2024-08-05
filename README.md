@@ -53,7 +53,7 @@
 
 【截止日期：8.8】[苏州研究院](https://sri.hit.edu.cn/2024/0724/c17245a349213/page.htm)
 
-【截止日期：8.5 17：00】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
+【截止日期：8.25 17：00】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
 
 【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
