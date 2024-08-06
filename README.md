@@ -70,10 +70,6 @@
 
 【截止日期：8.14 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)
 
-## 国防科技大学
-
-> [国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
-
 ## 北京工商大学
 
 【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
