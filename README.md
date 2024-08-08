@@ -96,7 +96,7 @@
 
 ## 中国人民解放军军事科学院
 
-【报名截止：8.7】[中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
+~~【报名截止：8.7】[中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)~~
 
 ## 空军工程大学
 
