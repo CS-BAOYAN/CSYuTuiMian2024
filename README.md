@@ -35,7 +35,7 @@
 
 ~~【报名截止：8.5 12:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
 
-【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
+~~【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)~~
 
 ~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)~~
 
