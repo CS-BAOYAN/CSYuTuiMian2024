@@ -53,6 +53,8 @@
 
 【报名截止：9.10】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
+【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
+
 ## 哈尔滨工业大学
 
 > [哈尔滨工业大学关于接收 2025年推免生（含直博生）工作安排的通知](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
@@ -135,6 +137,8 @@
 >[天津大学夏令营信息](https://yzb.tju.edu.cn/xwzx/zxxx/202406/t20240605_323809.htm)
 
 【报名截止：8.20】[智能与计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+
+【截止日期：8.30】[天津大学2025级卓越工程师导师团报名须知](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
 【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
