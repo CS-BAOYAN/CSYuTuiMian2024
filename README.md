@@ -63,6 +63,8 @@
 
 > [哈尔滨工业大学（威海）关于接收 2025年推免生（含直博生）工作的通知](https://yjsc.hitwh.edu.cn/2024/0805/c934a185979/page.htm)
 
+> [哈尔滨工业大学（深圳）关于接收 2025年推免生（含直博生）工作的通知](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=9583acaddb384fc4b31eced3a39df7be&xxlm=04)
+
 ~~【截止日期：8.6 18：00】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
 
 【截止日期：8.8】[苏州研究院](https://sri.hit.edu.cn/2024/0724/c17245a349213/page.htm)
