@@ -90,9 +90,11 @@
 
 【截止日期：9.8 23：59】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)
 
+【截止日期：9.3】[匡亚明学院2024年暑期学校第二轮面试报名](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)
+
 ## 北京航空航天大学
 
-【截止日期：8.14 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)
+~~【截止日期：8.14 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
 ## 北京工商大学
 
@@ -147,6 +149,8 @@
 【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)
 
 【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
+
+【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
 
 ## 东北大学
 
@@ -280,6 +284,8 @@
 【报名截止：8.30 17:00】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
 【报名截止：8.30 23:59】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
+
+【报名截止：8.31】[钢铁共性技术协同创新中心2](https://cicst.ustb.edu.cn/zsjy/zsxx/50e044682eb84d999645e82ab8c47681.htm)
 
 ## 西安建筑科技大学
 
