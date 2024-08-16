@@ -144,6 +144,10 @@
 
 ~~【报名截止：7.28 17:00】[计算机科学与技术学院](http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html)~~
 
+【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)
+
+【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
+
 ## 东北大学
 
 > [东北大学2025年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
@@ -163,6 +167,10 @@
 【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
 【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)
+
+## 深圳大学
+
+>[深圳大学微众银行金融科技学院2025年人工智能专业型硕士推荐免试招生简章](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
 
 ## 中国航空工业集团公司西安飞行自动控制研究所
 
