@@ -97,6 +97,8 @@
 
 【截止日期：8.25 17：00】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
 
+【截止日期：9.9】[计算机科学与技术学院（深圳）]([https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm](http://cs.hitsz.edu.cn/info/1029/7452.htm))
+
 【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
 【截止日期：N/A】[计算机科学与技术学院（威海）](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
