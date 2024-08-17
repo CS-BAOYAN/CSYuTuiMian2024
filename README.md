@@ -16,10 +16,28 @@
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 > 
 > [清华大学2025年接收优秀应届本科毕业生免试攻读研究生报名通知(2024年8月23日12:00开放，2024年9月2日12:00关闭)](https://yz.tsinghua.edu.cn/info/1008/2796.htm)
+>
+> [清华大学2025年各院系博士生招生简章](https://yz.tsinghua.edu.cn/info/1024/2809.htm)
 
 【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
+
+【报名截止：9.2】[软件学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
+
+【报名截止：9.2】[网络科学与网络空间研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412)
+
+【报名截止：9.2】[人工智能学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)
+
+【报名截止：9.2】[电子工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
+
+【报名截止：9.2】[交叉信息研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)
+
+【报名截止：9.2】[工业工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
+
+【报名截止：9.2】[统计与数据科学系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088)
+
+【报名截止：9.2】[深圳国际研究生院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
 
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
