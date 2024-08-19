@@ -202,6 +202,8 @@
 
 >[深圳大学微众银行金融科技学院2025年人工智能专业型硕士推荐免试招生简章](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
 
+>[深圳大学2025年接收推荐免试攻读研究生章程（含直博生）](https://yz.szu.edu.cn/info/1041/12989.htm)
+
 ## 中国航空工业集团公司西安飞行自动控制研究所
 
 > [中国航空工业集团公司西安飞行自动控制研究所2025 年硕士研究生预推免开放日活动公告](https://mp.weixin.qq.com/s/fgszexKIliZSSVGMWN4gfA)
