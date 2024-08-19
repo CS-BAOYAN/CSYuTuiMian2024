@@ -39,6 +39,8 @@
 
 【报名截止：9.2】[深圳国际研究生院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
 
+【报名截止：9.2】[集成电路学院集成电路创新博士班](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)
+
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 > 是否有招生名额请联系老师
@@ -101,6 +103,10 @@
 
 【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
+【截止日期：9.9】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7452.htm)
+
+【截止日期：第一批8.28；第二批9.4】[空间科学与应用技术研究院（深圳）](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
+
 【截止日期：N/A】[计算机科学与技术学院（威海）](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
 
@@ -118,7 +124,7 @@
 
 ## 北京工商大学
 
-【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
+~~【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)~~
 
 ## 暨南大学
 
