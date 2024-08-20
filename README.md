@@ -166,6 +166,10 @@
 
 ~~【报名截止：8.11】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
+## 华南理工大学
+
+> [华南理工大学接收2025年推荐免试研究生预报名通知](https://yz.scut.edu.cn/2024/0819/c30674a559796/page.htm)
+
 ## 中国科学院
 
 ~~【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)~~
