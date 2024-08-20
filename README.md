@@ -19,7 +19,7 @@
 >
 > [清华大学2025年各院系博士生招生简章](https://yz.tsinghua.edu.cn/info/1024/2809.htm)
 
-【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
+【报名截止：9.2】[高等研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)
 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
 
@@ -82,6 +82,8 @@
 【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
 
 【报名截止：9.10】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3498.html)
+
+【报名截止：9.10】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2024/0819/c63837a2953766/page.htm)
 
 ## 哈尔滨工业大学
 
@@ -178,6 +180,8 @@
 
 【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
 
+【报名截止：9.10】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)
+
 ## 东北大学
 
 > [东北大学2025年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
@@ -246,10 +250,6 @@
 
 【报名截止：N/A】[智能医学学院](https://www.cmu.edu.cn/znyx/info/1011/1621.htm)
 
-## 中国电力科学研究院
-
-~~【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)~~
-
 ## 东华大学
 
 > 【截止时间：9.23】[东华大学2025年接收推荐免试攻读硕士研究生预申请公告](https://yjszs.dhu.edu.cn/2024/0807/c7127a349630/page.htm)
@@ -275,6 +275,28 @@
 
 【报名截止：9.18】[国际前沿科学研究院](https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm)
 
+## 陕西师范大学
+
+> [陕西师范大学2025年接收推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
+
+## 南京理工大学
+
+【报名截止：N/A】[计算机学院](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
+
+【报名截止：9.10】[网络空间安全学院](https://scs.njust.edu.cn/28/b4/c15612a338100/page.htm)
+
+~~【报名截止：7.20】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)~~
+
+## 北京科技大学
+
+> [北京科技大学各培养单位接收2025年推荐免试硕士研究生（含直博生）预报名活动通知汇总](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
+
+【报名截止：8.30 17:00】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
+
+【报名截止：8.30 23:59】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
+
+【报名截止：8.31】[钢铁共性技术协同创新中心2](https://cicst.ustb.edu.cn/zsjy/zsxx/50e044682eb84d999645e82ab8c47681.htm)
+
 ## 西北大学
 
 > 【报名截止：9.20】[西北大学2025年接收推荐免试研究生预报名公告](https://yjs.nwu.edu.cn/info/1104/4676.htm)
@@ -295,25 +317,9 @@
 
 > [武汉理工大学夏令营信息](https://mp.weixin.qq.com/s?__biz=MjM5NzkyNzI0Mg==&mid=2652728216&idx=1&sn=2b1bf3c66053073bb1ddbda6764e584a&chksm=bd3b4bbd8a4cc2ab7e2080a2c75cefeeab3a694d392e7f29bacb0fee55980bc6495ebf5ae850)
 
-## 陕西师范大学
+## 中国电力科学研究院
 
-> [陕西师范大学2025年接收推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
-
-## 南京理工大学
-
-【报名截止：N/A】[计算机学院](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
-
-~~【报名截止：7.20】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)~~
-
-## 北京科技大学
-
-> [北京科技大学各培养单位接收2025年推荐免试硕士研究生（含直博生）预报名活动通知汇总](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
-
-【报名截止：8.30 17:00】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
-
-【报名截止：8.30 23:59】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
-
-【报名截止：8.31】[钢铁共性技术协同创新中心2](https://cicst.ustb.edu.cn/zsjy/zsxx/50e044682eb84d999645e82ab8c47681.htm)
+~~【报名截止：7.28】[中国电力科学研究院](https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA)~~
 
 ## 西安建筑科技大学
 
