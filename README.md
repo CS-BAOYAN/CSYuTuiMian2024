@@ -43,6 +43,8 @@
 
 【报名截止：9.2】[计算机科学与技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)
 
+【报名截止：9.2】[求真书院“数学与人工智能硕士项目”](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
+
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 > 是否有招生名额请联系老师
@@ -113,6 +115,9 @@
 
 【截止日期：N/A】[计算机科学与技术学院（威海）](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
+## 中国航天科工集团第三研究院第三总体设计部
+
+【截止日期：9月】[中国航天科工集团第三研究院第三总体设计部](https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ)
 
 ## 南京大学
 
@@ -303,7 +308,11 @@
 
 【报名截止：8.30 23:59】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
 
-【报名截止：8.31】[钢铁共性技术协同创新中心2](https://cicst.ustb.edu.cn/zsjy/zsxx/50e044682eb84d999645e82ab8c47681.htm)
+【报名截止：8.31】[钢铁共性技术协同创新中心](https://cicst.ustb.edu.cn/zsjy/zsxx/50e044682eb84d999645e82ab8c47681.htm)
+
+【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
+
+【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
 
 ## 西北大学
 
