@@ -45,25 +45,13 @@
 
 【报名截止：9.2】[求真书院“数学与人工智能硕士项目”](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
 
+【报名截止：9.2】[清华大学-鹏城实验室联合培养博士专项计划2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
+
+【报名截止：9.2】[清华大学-南方科技大学联合培养博士专项计划2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
+
 【报名截止：N/A】 [智能产业研究院](https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg)
 
 > 是否有招生名额请联系老师
-
-## 东南大学
-
-> [东南大学夏令营信息](https://yzb.seu.edu.cn/2024/0618/c6676a494353/pagem.htm)
-
-~~【报名截止：8.11 12:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)~~
-
-【报名截止：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
-
-~~【报名截止：8.5 12:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
-
-~~【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)~~
-
-~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)~~
-
-~~【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
 
 ## 上海交通大学
 
@@ -195,6 +183,18 @@
 
 【报名截止：8.30】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
 
+## 山东大学
+
+> 【截止时间：9.1 9:00】[山东大学2025年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
+
+## 华东理工大学
+
+> 【截止时间：9.20 9:00】[华东理工大学2025年接收外校推荐免试研究生（含直博生）预报名通知](https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm)
+
+## 西湖大学
+
+> [西湖大学2025年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
+
 ## 东北大学
 
 > [东北大学2025年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
@@ -313,6 +313,22 @@
 【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
 
 【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
+
+## 东南大学
+
+> [东南大学夏令营信息](https://yzb.seu.edu.cn/2024/0618/c6676a494353/pagem.htm)
+
+~~【报名截止：8.11 12:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)~~
+
+【报名截止：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
+
+~~【报名截止：8.5 12:00】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
+
+~~【报名截止：8.8】[信息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)~~
+
+~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)~~
+
+~~【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
 
 ## 西北大学
 
