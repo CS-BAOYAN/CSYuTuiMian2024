@@ -57,9 +57,15 @@
 
 【报名截止：9.2】[清华大学深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
 
+【报名截止：9.2】[清华大学深圳国际研究生院海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
+
 ## 上海交通大学
 
 ~~【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
+
+## 中国医学科学院
+
+> [中国医学科学院北京协和医学院接收2025年推荐免试研究生预报名通知](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)
 
 ## 浙江大学
 
