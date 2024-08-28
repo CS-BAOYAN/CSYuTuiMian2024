@@ -61,9 +61,15 @@
 
 【报名截止：9.2】[清华大学2025年工程硕博士培养改革专项全日制工程硕博士研究生招生简章](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/93aa8e13-a074-41df-8105-e62df4fdda91?yxsdm=047)
 
+【报名截止：9.2】[清华大学电子工程系天基网络与通信全国重点实验室](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)
+
 ## 上海交通大学
 
 ~~【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
+
+## 西湖大学
+
+【报名截止：9.9】[工学院2025年博士研究生招生简章](https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ)
 
 ## 中国医学科学院
 
