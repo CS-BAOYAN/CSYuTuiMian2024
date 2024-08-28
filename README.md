@@ -59,6 +59,8 @@
 
 【报名截止：9.2】[清华大学深圳国际研究生院海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
 
+【报名截止：9.2】[清华大学2025年工程硕博士培养改革专项全日制工程硕博士研究生招生简章](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/93aa8e13-a074-41df-8105-e62df4fdda91?yxsdm=047)
+
 ## 上海交通大学
 
 ~~【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
@@ -105,11 +107,11 @@
 
 ~~【截止日期：8.25 17：00】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)~~
 
+【截止日期：9.6】[电子与信息工程学院（深圳）](http://eie.hitsz.edu.cn/info/1018/2633.htm)
+
 【截止日期：9.9】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7452.htm)
 
 【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
-
-【截止日期：9.9】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7452.htm)
 
 【截止日期：第一批8.28；第二批9.4】[空间科学与应用技术研究院（深圳）](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
 
