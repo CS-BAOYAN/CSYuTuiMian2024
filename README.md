@@ -243,6 +243,8 @@
 
 【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)
 
+【截止日期：9.20】[天津大学2025推免生接收篇](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
+
 ## 深圳大学
 
 >[深圳大学微众银行金融科技学院2025年人工智能专业型硕士推荐免试招生简章](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
