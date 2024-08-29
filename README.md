@@ -238,6 +238,8 @@
 
 > [西湖大学2025年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
 
+【截止日期：9.9】[2024年西湖大学工学院2025年博士研究生招生简章](https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ)
+
 ## 东北大学
 
 > [东北大学2025年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
@@ -245,6 +247,8 @@
 ## 大连理工大学
 
 > [关于大连理工大学各院系2025年接收推荐免试研究生预报名陆续开放的通知](https://gs.dlut.edu.cn/info/1173/14906.htm)
+
+【截止日期：9.11】[信息与通信工程学院2025年接收推荐免试研究生预报名通知](http://ice.dlut.edu.cn/info/1208/3886.htm)
 
 ## 天津大学
 
@@ -261,6 +265,8 @@
 【截止日期：9.20】[天津大学2025推免生接收篇](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
 ## 中国海洋大学
+
+【截止日期：9.19】[中国海洋大学接收2025年推荐免试研究生的通知](https://yz.ouc.edu.cn/2024/0827/c5926a482049/page.htm)
 
 【截止日期：9.19】[中国海洋大学2025年接收“创新人才培养专项计划”研究生](https://yz.ouc.edu.cn/2024/0827/c5926a482047/page.htm)
 
@@ -307,6 +313,10 @@
 ## 澳门大学
 
 【报名截止：10.15】[澳门大学2025/2026学年招收推免免试攻读研究生(哲学博士学位及硕士学位课程) 通告](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant)
+
+## 杭州师范大学
+
+【报名截止：N/A】[2024年杭州师范大学2025年接收推荐免试硕士研究生预报名系统开放通知](https://yjs.hznu.edu.cn/c/2024-08-25/2990202.shtml)
 
 ## 中国医科大学
 
