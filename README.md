@@ -63,6 +63,10 @@
 
 【报名截止：9.2】[清华大学电子工程系天基网络与通信全国重点实验室](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)
 
+【报名截止：9.2】[清华大学电子全球创新学院GIX](https://gix.tsinghua.edu.cn/zs1.htm)
+
+【报名截止：9.2】[清华大学深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ)
+
 ## 上海交通大学
 
 ~~【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
@@ -70,6 +74,14 @@
 ## 西湖大学
 
 【报名截止：9.9】[工学院2025年博士研究生招生简章](https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ)
+
+## 航天二院（中国航天科工防御技术研究院党校）
+
+【报名截止：10.16】[航天二院（中国航天科工防御技术研究院党校）](https://mp.weixin.qq.com/s/ysBhbJxqCzSwUAOXass-0A)
+
+## 南方科技大学
+
+【报名截止：9.28】[南方科技大学生物医学工程系接收2025年推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
 
 ## 中国医学科学院
 
@@ -136,6 +148,8 @@
 【截止日期：9.8 23：59】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)
 
 【截止日期：9.3】[匡亚明学院2024年暑期学校第二轮面试报名](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)
+
+【报名截止：9.8】[软件学院、智能软件与工程学院](https://software.nju.edu.cn/tzgg/20240829/i273701.html)
 
 ## 复旦大学
 
@@ -219,6 +233,8 @@
 【报名截止：9.10】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)
 
 【报名截止：8.30】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
+
+【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)
 
 ## 山东大学
 
