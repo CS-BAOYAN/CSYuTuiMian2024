@@ -71,10 +71,6 @@
 
 ~~【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
-## 西湖大学
-
-【报名截止：9.9】[工学院2025年博士研究生招生简章](https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ)
-
 ## 航天二院（中国航天科工防御技术研究院党校）
 
 【报名截止：10.16】[航天二院（中国航天科工防御技术研究院党校）](https://mp.weixin.qq.com/s/ysBhbJxqCzSwUAOXass-0A)
