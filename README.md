@@ -240,6 +240,8 @@
 
 【截止时间：9.18】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4823.htm)
 
+【截止时间：9.20】[空间科学与物理学院2025年物理学、地球物理学、控制工程、大数据技术与工程专业](https://apd.wh.sdu.edu.cn/info/1049/16750.htm)
+
 ## 湘潭大学
 
 【截止时间：9.15】[数学与计算科学学院](https://math.xtu.edu.cn/info/1059/4441.htm)
@@ -305,6 +307,8 @@
 > 考试时间：第一批次：8月21日13:00-16:00，第二批次：9月11日13:00-16:00。
 
 【报名截止：每批次考试时间的前一周】[计算机科学与技术学院(软件学院)夏令营及预推免](https://scst.suda.edu.cn/d4/c2/c29557a578754/page.htm)
+
+【报名截止：N/A】[接收2025级推荐免试研究生（含直博生）预报名](https://yjs.suda.edu.cn/e6/4b/c8386a583243/page.htm)
 
 ## 西安电子科技大学
 
@@ -377,7 +381,7 @@
 
 > [北京科技大学各培养单位接收2025年推荐免试硕士研究生（含直博生）预报名活动通知汇总](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
 >
-> 【报名截止：9.1】[北京科技大学“校企联合培养工程硕博士”专项计划](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
+> ~~【报名截止：9.1】[北京科技大学“校企联合培养工程硕博士”专项计划](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)~~
 
 【报名截止：8.30 17:00】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
