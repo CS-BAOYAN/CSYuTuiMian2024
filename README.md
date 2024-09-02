@@ -190,6 +190,10 @@
 
 【报名截止：9.20】[生物医学工程学院](https://mp.weixin.qq.com/s/yM6tDoVUyTJaMHZzyAyOKg)
 
+## 同济大学
+
+>【报名截止：9.26】[同济大学2025年接收推荐免试研究生（含直接攻博）预报名通知](https://yz.tongji.edu.cn/info/1010/3638.htm)
+
 ## 中国人民解放军军事科学院
 
 ~~【报名截止：8.7】[中国人民解放军军事科学院2025年直接选拔招录推荐免试入伍攻读硕士研究生的通知](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)~~
