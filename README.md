@@ -71,6 +71,8 @@
 
 ~~【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
+【报名截止：9.16】[上海交通大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生免试攻读博士研究生办法](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
+
 ## 航天二院（中国航天科工防御技术研究院党校）
 
 【报名截止：10.16】[航天二院（中国航天科工防御技术研究院党校）](https://mp.weixin.qq.com/s/ysBhbJxqCzSwUAOXass-0A)
@@ -102,6 +104,8 @@
 【报名截止：9.10】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3498.html)
 
 【报名截止：9.10】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2024/0819/c63837a2953766/page.htm)
+
+【报名截止：9.8】[“国优计划”](http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm)
 
 ## 哈尔滨工业大学
 
@@ -209,6 +213,8 @@
 ## 华南理工大学
 
 > [华南理工大学接收2025年推荐免试研究生预报名通知](https://yz.scut.edu.cn/2024/0819/c30674a559796/page.htm)
+>
+> [华南理工大学关于接收2025年“智能EDA专项班”推免生报名的通知](https://yz.scut.edu.cn/2024/0829/c30674a560558/page.htm)
 
 ## 中央音乐学院
 
@@ -242,6 +248,10 @@
 
 【截止时间：9.20】[空间科学与物理学院2025年物理学、地球物理学、控制工程、大数据技术与工程专业](https://apd.wh.sdu.edu.cn/info/1049/16750.htm)
 
+【截止时间：9.4】[国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)
+
+【截止时间：9.14】[信息学院](https://www.ise.sdu.edu.cn/info/1025/13923.htm)
+
 ## 湘潭大学
 
 【截止时间：9.15】[数学与计算科学学院](https://math.xtu.edu.cn/info/1059/4441.htm)
@@ -255,6 +265,10 @@
 > [西湖大学2025年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
 
 【截止日期：9.9】[2024年西湖大学工学院2025年博士研究生招生简章](https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ)
+
+## 中国科学技术大学
+
+【截止日期：9.16】[中国科学技术大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生 免试攻读博士研究生办法](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E4%B8%8E%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%9A%82%E5%90%8D%EF%BC%892025-2)
 
 ## 东北大学
 
@@ -277,6 +291,8 @@
 【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
 【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)
+
+【截止日期：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
 
 【截止日期：9.20】[天津大学2025推免生接收篇](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
@@ -305,6 +321,8 @@
 > 计算机科学与技术学院(软件学院)分两批次考试，只能选择一个参加
 >
 > 考试时间：第一批次：8月21日13:00-16:00，第二批次：9月11日13:00-16:00。
+>
+> [苏州大学关于接收2025级推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/XDqCWcdQeHPRqQN8q1uNog)
 
 【报名截止：每批次考试时间的前一周】[计算机科学与技术学院(软件学院)夏令营及预推免](https://scst.suda.edu.cn/d4/c2/c29557a578754/page.htm)
 
