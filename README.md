@@ -153,7 +153,9 @@
 
 ## 复旦大学
 
-【截止日期：9月2日16:00】[工程硕博士培养改革专项](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm) | [复旦大学2025年工程硕博士培养改革专项推荐免试研究生预选拔报名通知](https://mp.weixin.qq.com/s/HF5jY7egLaOWf7cxwRqcSA)
+~~【截止日期：9月2日16:00】[工程硕博士培养改革专项](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm) | [复旦大学2025年工程硕博士培养改革专项推荐免试研究生预选拔报名通知](https://mp.weixin.qq.com/s/HF5jY7egLaOWf7cxwRqcSA)~~
+
+【报名截止：9.15】[2025年推免生招生预选拔活动报名须知及各院系预选拔工作通知](https://gsao.fudan.edu.cn/8a/a3/c15014a690851/page.htm)
 
 ## 北京航空航天大学
 
@@ -344,7 +346,7 @@
 
 【报名截止：9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/12219.html)
 
-【报名截止：9.2】[通信工程学院](https://ste.xidian.edu.cn/info/1337/8386.htm)
+~~【报名截止：9.2】[通信工程学院](https://ste.xidian.edu.cn/info/1337/8386.htm)~~
 
 【报名截止：9.30】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)
 
