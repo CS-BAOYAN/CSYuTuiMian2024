@@ -21,51 +21,51 @@
 >
 > [清华大学深圳国际研究生院2025年硕士研究生招生专业目录（推免）](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95819/page.htm)
 
-【报名截止：9.2】[高等研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)
+~~【报名截止：9.2】[高等研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)~~
 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
 
-【报名截止：9.2】[软件学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
+~~【报名截止：9.2】[软件学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)~~
 
-【报名截止：9.2】[网络科学与网络空间研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412)
+~~【报名截止：9.2】[网络科学与网络空间研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412)~~
 
-【报名截止：9.2】[人工智能学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)
+~~【报名截止：9.2】[人工智能学院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)~~
 
-【报名截止：9.2】[电子工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
+~~【报名截止：9.2】[电子工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)~~
 
-【报名截止：9.2】[交叉信息研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)
+~~【报名截止：9.2】[交叉信息研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)~~
 
-【报名截止：9.2】[工业工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
+~~【报名截止：9.2】[工业工程系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)~~
 
-【报名截止：9.2】[统计与数据科学系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088)
+~~【报名截止：9.2】[统计与数据科学系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088)~~
 
-【报名截止：9.2】[深圳国际研究生院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+~~【报名截止：9.2】[深圳国际研究生院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)~~
 
-【报名截止：9.2】[集成电路学院集成电路创新博士班](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)
+~~【报名截止：9.2】[集成电路学院集成电路创新博士班](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)~~
 
-【报名截止：9.2】[计算机科学与技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)
+~~【报名截止：9.2】[计算机科学与技术系2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)~~
 
-【报名截止：9.2】[求真书院“数学与人工智能硕士项目”](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
+~~【报名截止：9.2】[求真书院“数学与人工智能硕士项目”](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)~~
 
-【报名截止：9.2】[清华大学-鹏城实验室联合培养博士专项计划2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
+~~【报名截止：9.2】[清华大学-鹏城实验室联合培养博士专项计划2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)~~
 
-【报名截止：9.2】[清华大学-南方科技大学联合培养博士专项计划2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
+~~【报名截止：9.2】[清华大学-南方科技大学联合培养博士专项计划2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)~~
 
-【报名截止：9.2】[清华大学2025年全国重点实验室工程博士研究生项目招生简章](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)
+~~【报名截止：9.2】[清华大学2025年全国重点实验室工程博士研究生项目招生简章](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)~~
 
-【报名截止：9.2】[清华大学SIGS-IMDT（深圳国际研究生院互动媒体设计与设计中心）](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
+~~【报名截止：9.2】[清华大学SIGS-IMDT（深圳国际研究生院互动媒体设计与设计中心）](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)~~
 
-【报名截止：9.2】[清华大学深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
+~~【报名截止：9.2】[清华大学深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)~~
 
-【报名截止：9.2】[清华大学深圳国际研究生院海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
+~~【报名截止：9.2】[清华大学深圳国际研究生院海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)~~
 
-【报名截止：9.2】[清华大学2025年工程硕博士培养改革专项全日制工程硕博士研究生招生简章](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/93aa8e13-a074-41df-8105-e62df4fdda91?yxsdm=047)
+~~【报名截止：9.2】[清华大学2025年工程硕博士培养改革专项全日制工程硕博士研究生招生简章](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/93aa8e13-a074-41df-8105-e62df4fdda91?yxsdm=047)~~
 
-【报名截止：9.2】[清华大学电子工程系天基网络与通信全国重点实验室](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)
+~~【报名截止：9.2】[清华大学电子工程系天基网络与通信全国重点实验室](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)~~
 
-【报名截止：9.2】[清华大学电子全球创新学院GIX](https://gix.tsinghua.edu.cn/zs1.htm)
+~~【报名截止：9.2】[清华大学电子全球创新学院GIX](https://gix.tsinghua.edu.cn/zs1.htm)~~
 
-【报名截止：9.2】[清华大学深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ)
+~~【报名截止：9.2】[清华大学深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ~~
 
 ## 上海交通大学
 
