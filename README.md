@@ -153,9 +153,11 @@
 
 ## 复旦大学
 
-~~【截止日期：9月2日16:00】[工程硕博士培养改革专项](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm) | [复旦大学2025年工程硕博士培养改革专项推荐免试研究生预选拔报名通知](https://mp.weixin.qq.com/s/HF5jY7egLaOWf7cxwRqcSA)~~
+> ~~【截止日期：9月2日16:00】[工程硕博士培养改革专项](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm) | [复旦大学2025年工程硕博士培养改革专项推荐免试研究生预选拔报名通知](https://mp.weixin.qq.com/s/HF5jY7egLaOWf7cxwRqcSA)~~
 
-【报名截止：9.15】[2025年推免生招生预选拔活动报名须知及各院系预选拔工作通知](https://gsao.fudan.edu.cn/8a/a3/c15014a690851/page.htm)
+>【报名截止：9.15】[2025年推免生招生预选拔活动报名须知及各院系预选拔工作通知](https://gsao.fudan.edu.cn/8a/a3/c15014a690851/page.htm)
+
+【报名截止：9.13 18:00】[计算机科学技术学院](https://cs.fudan.edu.cn/8a/d6/c24277a690902/page.htm)
 
 ## 北京航空航天大学
 
@@ -201,6 +203,8 @@
 ## 同济大学
 
 >【报名截止：9.26】[同济大学2025年接收推荐免试研究生（含直接攻博）预报名通知](https://yz.tongji.edu.cn/info/1010/3638.htm)
+
+【报名截止：9.14 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/12926.htm)
 
 ## 中国人民解放军军事科学院
 
@@ -313,6 +317,8 @@
 【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)
 
 【截止日期：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
+
+【截止日期：9.15 12:00】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4613.htm)
 
 【截止日期：9.20】[天津大学2025推免生接收篇](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
