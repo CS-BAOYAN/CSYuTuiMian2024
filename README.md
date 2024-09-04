@@ -79,7 +79,9 @@
 
 ## 南方科技大学
 
-【报名截止：9.28】[南方科技大学生物医学工程系接收2025年推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
+【报名截止：9.28】[生物医学工程系](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
+
+【报名截止：9.15】[系统设计与智能制造学院](https://mp.weixin.qq.com/s/KHpzoQBSG6TuZ7WlYBwdRg)
 
 ## 中国医学科学院
 
@@ -133,7 +135,7 @@
 
 【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
-【截止日期：第一批8.28；第二批9.4】[空间科学与应用技术研究院（深圳）](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
+~~【截止日期：第一批8.28；第二批9.4】[空间科学与应用技术研究院（深圳）](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)~~
 
 【截止日期：N/A】[计算机科学与技术学院（威海）](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
@@ -159,7 +161,15 @@
 
 【报名截止：9.13 18:00】[计算机科学技术学院](https://cs.fudan.edu.cn/8a/d6/c24277a690902/page.htm)
 
-【报名截止：9.15 16:00】[大数据学院2025年推免生招生预选拔工作通知](https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm)
+【报名截止：9.15 16:00】[大数据学院](https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm)
+
+【报名截止：9.15 16:00】[工程与应用技术研究院](https://faet.fudan.edu.cn/8b/9b/c23815a691099/page.htm)
+
+【报名截止：9.15 16:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4696)、
+
+【报名截止：9.15 16:00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/6400.htm)
+
+【报名截止：9.15 16:00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/8b/53/c43157a691027/page.htm)
 
 ## 北京航空航天大学
 
@@ -173,7 +183,9 @@
 
 > [关于中南大学2024年接收推荐免试攻读硕士学位研究生工作的通知](https://gra.csu.edu.cn/info/1012/39453.htm)
 
-【报名截止：9.10】[中南大学计算机学院](https://cse.csu.edu.cn/info/1040/9738.htm)
+【报名截止：9.10】[计算机学院](https://cse.csu.edu.cn/info/1040/9738.htm)
+
+【报名截止：9.18】[电子信息学院](https://ei.csu.edu.cn/info/1085/1633.htm)
 
 ## 湖南大学
 > [湖南大学2025年接收推荐免试研究生（含直博生）预报名通知](http://gra.hnu.edu.cn/info/1075/9695.htm)
@@ -189,6 +201,10 @@
 > 【报名截止：9.14 12:00】[厦门大学2025年接收推荐免试研究生（含直博生）预报名通知](https://zs.xmu.edu.cn/info/1174/30891.htm)
 
 【报名截止：9.14 12:00】[信息学院（软件学院）](https://informatics.xmu.edu.cn/info/1050/40529.htm)
+
+【报名截止：9.11】[电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/23289.htm)
+
+【报名截止：9.14】[信息学院](https://informatics.xmu.edu.cn/info/1050/40529.htm)
 
 ## 暨南大学
 
@@ -217,6 +233,10 @@
 【报名截止：9.14 12:00】[计算机科学与技术学院（软件学院）](https://sse.tongji.edu.cn/info/1132/5276.htm)
 
 【报名截止：10.7】[2025年“国优计划”推荐免试研究生预报名通知](https://yz.tongji.edu.cn/info/1010/3640.htm)
+
+【报名截止：9.14 12:00】[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/2b/6d/c17827a338797/page.htm)
+
+【报名截止：9.14 12:00】[设计创意学院“人工智能与数据设计”方向](https://mp.weixin.qq.com/s/RlvqzxGgYFEWxXU483VU2Q)
 
 ## 中国人民解放军军事科学院
 
