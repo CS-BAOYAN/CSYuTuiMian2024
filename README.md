@@ -165,6 +165,12 @@
 
 ~~【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)~~
 
+## 中南大学
+
+> [关于中南大学2024年接收推荐免试攻读硕士学位研究生工作的通知](https://gra.csu.edu.cn/info/1012/39453.htm)
+
+【报名截止：9.10】[中南大学计算机学院](https://cse.csu.edu.cn/info/1040/9738.htm)
+
 ## 湖南大学
 > [湖南大学2025年接收推荐免试研究生（含直博生）预报名通知](http://gra.hnu.edu.cn/info/1075/9695.htm)
 
