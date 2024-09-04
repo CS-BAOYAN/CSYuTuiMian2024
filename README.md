@@ -262,13 +262,15 @@
 
 > 【报名开始时间：9.1 9:00】[山东大学2025年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
 
-【截止时间：9.18】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4823.htm)
-
-【截止时间：9.20】[空间科学与物理学院2025年物理学、地球物理学、控制工程、大数据技术与工程专业](https://apd.wh.sdu.edu.cn/info/1049/16750.htm)
-
 【截止时间：9.4】[国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)
 
 【截止时间：9.14】[信息学院](https://www.ise.sdu.edu.cn/info/1025/13923.htm)
+
+【截止时间：9.18 17:00】[计算机科学与技术学院](https://www.cs.sdu.edu.cn/info/1068/6336.htm)
+
+【截止时间：9.18】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4823.htm)
+
+【截止时间：9.20】[空间科学与物理学院2025年物理学、地球物理学、控制工程、大数据技术与工程专业](https://apd.wh.sdu.edu.cn/info/1049/16750.htm)
 
 ## 湘潭大学
 
