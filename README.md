@@ -65,7 +65,7 @@
 
 ~~【报名截止：9.2】[清华大学电子全球创新学院GIX](https://gix.tsinghua.edu.cn/zs1.htm)~~
 
-~~【报名截止：9.2】[清华大学深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ~~
+~~【报名截止：9.2】[清华大学深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ)~~
 
 ## 上海交通大学
 
@@ -294,7 +294,7 @@
 
 > 【报名开始时间：9.1 9:00】[山东大学2025年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
 
-【截止时间：9.4】[国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)
+~~【截止时间：9.4】[国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)~~
 
 【截止时间：9.14】[信息学院](https://www.ise.sdu.edu.cn/info/1025/13923.htm)
 
