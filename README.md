@@ -208,6 +208,8 @@
 
 【报名截止：9.14 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/12926.htm)
 
+【报名截止：N/A】[计算机科学与技术学院（软件学院）](https://sse.tongji.edu.cn/info/1132/5276.htm)
+
 【报名截止：10.7】[2025年“国优计划”推荐免试研究生预报名通知](https://yz.tongji.edu.cn/info/1010/3640.htm)
 
 ## 中国人民解放军军事科学院
