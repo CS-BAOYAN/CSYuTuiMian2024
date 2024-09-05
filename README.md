@@ -11,7 +11,13 @@
 >
 >预祝大家预推免成功上岸！都有喜欢的offer！
 
+<details>
+
+<summary> 
+
 ## 清华大学
+
+</summary>
 
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 > 
@@ -66,6 +72,8 @@
 ~~【报名截止：9.2】[清华大学电子全球创新学院GIX](https://gix.tsinghua.edu.cn/zs1.htm)~~
 
 ~~【报名截止：9.2】[清华大学深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ)~~
+
+</details>
 
 ## 上海交通大学
 
@@ -481,7 +489,13 @@
 
 ~~【报名截止：8.30】[前沿交叉科学技术研究院](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)~~
 
+<details>
+
+<summary>
+
 ## 东南大学
+
+</summary>
 
 > [东南大学夏令营信息](https://yzb.seu.edu.cn/2024/0618/c6676a494353/pagem.htm)
 >
@@ -498,6 +512,8 @@
 ~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)~~
 
 ~~【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
+
+</details>
 
 ## 西北大学
 
