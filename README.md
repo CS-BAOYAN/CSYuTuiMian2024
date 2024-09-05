@@ -175,6 +175,10 @@
 
 ~~【截止日期：8.14 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
+## 华东师范大学
+
+> [华东师范大学2025年推荐免试招收研究生（含直接攻博） 预报名公告](https://yjszs.ecnu.edu.cn/8d/88/c43264a626056/page.htm)
+
 ## 北京工商大学
 
 ~~【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)~~
