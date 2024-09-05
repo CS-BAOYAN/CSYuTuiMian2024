@@ -183,6 +183,10 @@
 
 ~~【截止日期：8.14 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
+## 南开大学
+
+【报名截止：9.11 24:00】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5923.htm)
+
 ## 华东师范大学
 
 > [华东师范大学2025年推荐免试招收研究生（含直接攻博） 预报名公告](https://yjszs.ecnu.edu.cn/8d/88/c43264a626056/page.htm)
@@ -200,6 +204,7 @@
 【报名截止：9.18】[电子信息学院](https://ei.csu.edu.cn/info/1085/1633.htm)
 
 ## 湖南大学
+
 > [湖南大学2025年接收推荐免试研究生（含直博生）预报名通知](http://gra.hnu.edu.cn/info/1075/9695.htm)
 
 【报名截止：N/A】[湖南大学2025年接收推荐免试研究生（含直博生）预报名通知](https://gra.hnu.edu.cn/info/1075/9695.htm)
@@ -214,9 +219,15 @@
 
 【报名截止：9.14 12:00】[信息学院（软件学院）](https://informatics.xmu.edu.cn/info/1050/40529.htm)
 
+【报名截止：9.14 12:00】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/4114.htm)
+
 【报名截止：9.11】[电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/23289.htm)
 
 【报名截止：9.14】[信息学院](https://informatics.xmu.edu.cn/info/1050/40529.htm)
+
+## 华中科技大学
+
+> [华中科技大学计算机科学与技术学院2025年接收推免研究生预报名通知](https://cs.hust.edu.cn/info/1439/4268.htm)
 
 ## 暨南大学
 
@@ -334,6 +345,8 @@
 
 ## 中国科学技术大学
 
+> [中国科学技术大学自动化系外校推免生预面试公告](https://auto.ustc.edu.cn/2024/0905/c26085a652618/page.htm)
+
 【截止日期：9.12】[2025年工程硕博士培养改革专项推免生预选拔招生简章](https://yz.ustc.edu.cn/article/2734/182?num=-1)
 
 【截止日期：9.15】[2024年网络空间安全学院预推免招生公告](https://xly.ustc.edu.cn/news.php?newsid=1039)
@@ -345,6 +358,14 @@
 ## 东北大学
 
 > [东北大学2025年接收推荐免试研究生工作办法](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
+
+## 吉林大学
+
+【截止日期：9.7】[人工智能学院-“工程硕博士校企联合培养”专项推免生](https://sai.jlu.edu.cn/info/1066/4765.htm)
+
+## 东北财经大学
+
+【截止日期：9.18】[数据科学与人工智能学院](https://dsai.dufe.edu.cn/content_85962.html)
 
 ## 大连理工大学
 
@@ -362,7 +383,7 @@
 
 【截止日期：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
-【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)
+~~【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)~~
 
 【截止日期：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
 
