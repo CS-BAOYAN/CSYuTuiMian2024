@@ -107,7 +107,7 @@
 
 【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)
 
-【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)
+~~【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)~~
 
 【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
 
@@ -129,7 +129,7 @@
 >
 > [哈尔滨工业大学（深圳）电子与信息工程学院2025年推免生（含直博生）接收工作细则](http://eie.hitsz.edu.cn/info/1007/2631.htm)
 >
-> 【截止时间：9.6】[哈尔滨工业大学2025年“国优计划”专项研究生预报名通知](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)
+> ~~【截止时间：9.6】[哈尔滨工业大学2025年“国优计划”专项研究生预报名通知](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)~~
 
 ~~【截止日期：8.6 18：00】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
 
@@ -137,7 +137,7 @@
 
 ~~【截止日期：8.25 17：00】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)~~
 
-【截止日期：9.6】[电子与信息工程学院（深圳）](http://eie.hitsz.edu.cn/info/1018/2633.htm)
+~~【截止日期：9.6】[电子与信息工程学院（深圳）](http://eie.hitsz.edu.cn/info/1018/2633.htm)~~
 
 【截止日期：9.9】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7452.htm)
 
@@ -315,7 +315,7 @@
 
 【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)
 
-【报名截止：9.6 12:00】[计算技术研究所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html)
+~~【报名截止：9.6 12:00】[计算技术研究所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html)~~
 
 ## 山东大学
 
@@ -557,6 +557,9 @@
 ## 华中农业大学
 
 > [华中农业大学夏令营信息](https://yjs.hzau.edu.cn/info/1189/10035.htm)
+
+【报名截止：9.17】[信息学院](https://coi.hzau.edu.cn/info/1015/12503.htm)
+
 
 ## 武汉理工大学
 
