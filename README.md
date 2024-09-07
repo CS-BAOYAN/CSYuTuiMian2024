@@ -151,6 +151,10 @@
 
 【截止日期：9月】[中国航天科工集团第三研究院第三总体设计部](https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ)
 
+## 中山大学
+
+【截止日期：9.11 24：00】[中山大学计算机学院2025级推荐免试研究生预选拔通知](https://cse.sysu.edu.cn/content/7164)
+
 ## 南京大学
 
 > [南京大学2025年接收推荐免试研究生预报名通知](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
@@ -412,6 +416,8 @@
 ## 国防科技大学
 
 >[国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案(推免预报名时间：预计9月7日00:00至9月22日24:00)](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
+
+>[国防科技大学2025年推荐免试研究生预推免报名系统即将开启](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13902)
 
 ## 苏州大学
 
