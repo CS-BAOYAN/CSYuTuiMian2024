@@ -231,8 +231,6 @@
 
 【报名截止：9.11】[电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/23289.htm)
 
-【报名截止：9.14】[信息学院](https://informatics.xmu.edu.cn/info/1050/40529.htm)
-
 ## 华中科技大学
 
 > [华中科技大学计算机科学与技术学院2025年接收推免研究生预报名通知](https://cs.hust.edu.cn/info/1439/4268.htm)
