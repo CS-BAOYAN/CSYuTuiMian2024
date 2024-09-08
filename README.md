@@ -81,7 +81,7 @@
 
 【报名截止：9.16】[上海交通大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生免试攻读博士研究生办法](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
 
-【报名截止：9.16】[上海交通大学电子信息与电气工程学院工程硕博士培养改革专项](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10653.html)
+【报名截止：9.12】[上海交通大学电子信息与电气工程学院工程硕博士培养改革专项](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10653.html)
 
 ## 航天二院（中国航天科工防御技术研究院党校）
 
