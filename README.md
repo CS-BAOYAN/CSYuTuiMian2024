@@ -241,6 +241,8 @@
 
 > [郑州大学2025年推免生（含直博生）预报名系统开通通知](http://gs.zzu.edu.cn/info/1023/13202.htm)
 
+【报名截止：9.22】[网络空间安全学院](http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec89077fd760191cf896c0202bc)
+
 ## 暨南大学
 
 >【报名截止：9.19】[暨南大学2025年接收全国高校优秀应届本科推免生报名公告](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
