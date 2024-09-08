@@ -151,6 +151,10 @@
 
 【截止日期：9月】[中国航天科工集团第三研究院第三总体设计部](https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ)
 
+## 海军工程大学
+
+【截止日期：10.10】[海军工程大学2025年攻读博士学位研究生招生简章](https://mp.weixin.qq.com/s/r3QyLDgJ3GTx_9Vvi4FUIA)
+
 ## 中山大学
 
 【截止日期：9.11 24：00】[中山大学计算机学院2025级推荐免试研究生预选拔通知](https://cse.sysu.edu.cn/content/7164)
@@ -251,11 +255,17 @@
 
 【报名截止：9.20】[生物医学工程学院](https://mp.weixin.qq.com/s/yM6tDoVUyTJaMHZzyAyOKg)
 
+## 兰州大学
+
+【报名截止：9.26】[“国优计划”专项](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2024/0907/274604.html)
+
 ## 同济大学
 
 >【报名截止：9.26】[同济大学2025年接收推荐免试研究生（含直接攻博）预报名通知](https://yz.tongji.edu.cn/info/1010/3638.htm)
 
 【报名截止：9.14 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/12926.htm)
+
+【报名截止：9.26】[工程硕博士专项](https://yz.tongji.edu.cn/info/1010/3653.htm)
 
 【报名截止：9.14 12:00】[计算机科学与技术学院（软件学院）](https://sse.tongji.edu.cn/info/1132/5276.htm)
 
