@@ -269,7 +269,7 @@
 
 >【报名截止：9.26】[同济大学2025年接收推荐免试研究生（含直接攻博）预报名通知](https://yz.tongji.edu.cn/info/1010/3638.htm)
 
-【报名截止：9.14 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/12926.htm)
+【报名截止：9.14 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12939.htm)
 
 【报名截止：9.26】[工程硕博士专项](https://yz.tongji.edu.cn/info/1010/3653.htm)
 
