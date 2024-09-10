@@ -120,7 +120,7 @@
 
 【报名截止：9.10】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2024/0819/c63837a2953766/page.htm)
 
-【报名截止：9.8】[“国优计划”](http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm)
+~~【报名截止：9.8】[“国优计划”](http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm)~~
 
 ## 哈尔滨工业大学
 
@@ -144,7 +144,7 @@
 
 ~~【截止日期：9.6】[电子与信息工程学院（深圳）](http://eie.hitsz.edu.cn/info/1018/2633.htm)~~
 
-【截止日期：9.9】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7452.htm)
+~~【截止日期：9.9】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7452.htm)~~
 
 【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
@@ -168,11 +168,11 @@
 
 > [南京大学2025年接收推荐免试研究生预报名通知](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
 
-【截止日期：9.8 23：59】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)
+~~【截止日期：9.8 23：59】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)~~
 
 ~~【截止日期：9.3】[匡亚明学院2024年暑期学校第二轮面试报名](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)~~
 
-【报名截止：9.8】[软件学院、智能软件与工程学院](https://software.nju.edu.cn/tzgg/20240829/i273701.html)
+~~【报名截止：9.8】[软件学院、智能软件与工程学院](https://software.nju.edu.cn/tzgg/20240829/i273701.html)~~
 
 ## 复旦大学
 
@@ -186,7 +186,7 @@
 
 【报名截止：9.15 16:00】[工程与应用技术研究院](https://faet.fudan.edu.cn/8b/9b/c23815a691099/page.htm)
 
-【报名截止：9.15 16:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4696)、
+【报名截止：9.15 16:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4696)
 
 【报名截止：9.15 16:00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/6400.htm)
 
@@ -364,7 +364,7 @@
 
 > [西湖大学2025年接收推荐免试直博生报名公告](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
 
-【截止日期：9.9】[2024年西湖大学工学院2025年博士研究生招生简章](https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ)
+~~【截止日期：9.9】[2024年西湖大学工学院2025年博士研究生招生简章](https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ)~~
 
 ## 中国科学技术大学
 
@@ -384,7 +384,7 @@
 
 ## 吉林大学
 
-【截止日期：9.7】[人工智能学院-“工程硕博士校企联合培养”专项推免生](https://sai.jlu.edu.cn/info/1066/4765.htm)
+~~【截止日期：9.7】[人工智能学院-“工程硕博士校企联合培养”专项推免生](https://sai.jlu.edu.cn/info/1066/4765.htm)~~
 
 ## 东北财经大学
 
@@ -408,7 +408,7 @@
 
 ~~【截止日期：9.5 24:00】[ “国优计划”专项](https://cic.tju.edu.cn/info/1041/5013.htm)~~
 
-【截止日期：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
+~~【截止日期：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)~~
 
 【截止日期：9.15 12:00】[智能与计算学部](https://cic.tju.edu.cn/info/1041/4613.htm)
 
