@@ -78,6 +78,10 @@
 ## 北京大学
 >[北京大学 2025 年接收推荐免试研究生办法（校本部）9 月 10 日 10:00-14 日 16:00](https://admission.pku.edu.cn/docs/20240910105625196643.pdf?CSRFT=POA9-FX8R-9R0B-8N3R-EV1U-MVSX-FPQT-0D8M)
 
+【报名截止：9.14 16：00】 [软件与微电子学院(硕士)](https://www.ss.pku.edu.cn/admission/admnotice/4603.html)
+
+【报名截止：9.14 16：00】 [软件与微电子学院(直博)](https://www.ss.pku.edu.cn/admission/admnotice/4602.html)
+
 ## 上海交通大学
 
 ~~【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
