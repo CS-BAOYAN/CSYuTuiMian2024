@@ -116,19 +116,19 @@
 
 ~~【报名截止：9.3 15:00】[生命科学研究院](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)~~
 
-【报名截止：9.10】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
+~~【报名截止：9.10】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)~~
 
-【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
+~~【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)~~
 
-【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)
+~~【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm) ~~
 
-~~【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)~~
+~~【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm) ~~
 
-【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
+~~【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)~~
 
-【报名截止：9.10】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3498.html)
+~~【报名截止：9.10】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3498.html)~~
 
-【报名截止：9.10】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2024/0819/c63837a2953766/page.htm)
+~~【报名截止：9.10】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2024/0819/c63837a2953766/page.htm)~~
 
 ~~【报名截止：9.8】[“国优计划”](http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm)~~
 
@@ -226,7 +226,7 @@
 
 > [关于中南大学2024年接收推荐免试攻读硕士学位研究生工作的通知](https://gra.csu.edu.cn/info/1012/39453.htm)
 
-【报名截止：9.10】[计算机学院](https://cse.csu.edu.cn/info/1040/9738.htm)
+~~【报名截止：9.10】[计算机学院](https://cse.csu.edu.cn/info/1040/9738.htm)~~
 
 【报名截止：9.18】[电子信息学院](https://ei.csu.edu.cn/info/1085/1633.htm)
 
@@ -344,7 +344,7 @@
 
 【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
 
-【报名截止：9.10】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)
+~~【报名截止：9.10】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)~~
 
 ~~【报名截止：8.30】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)~~
 
@@ -470,9 +470,9 @@
 
 > [西安电子科技大学信息通知](https://gr.xidian.edu.cn/info/1074/13515.htm)
 
-【报名截止：9.10】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/16583.htm)
+~~【报名截止：9.10】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/16583.htm)~~
 
-【报名截止：9.10】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
+~~【报名截止：9.10】[人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)~~
 
 【报名截止：9.20】[电子工程学院](https://see.xidian.edu.cn/html/news/12219.html)
 
@@ -529,7 +529,7 @@
 
 【报名截止：N/A】[计算机学院](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
 
-【报名截止：9.10】[网络空间安全学院](https://scs.njust.edu.cn/28/b4/c15612a338100/page.htm)
+~~【报名截止：9.10】[网络空间安全学院](https://scs.njust.edu.cn/28/b4/c15612a338100/page.htm)~~
 
 ~~【报名截止：7.20】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)~~
 
