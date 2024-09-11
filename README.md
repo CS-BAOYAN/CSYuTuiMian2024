@@ -96,6 +96,8 @@
 
 【报名截止：9.12】[上海交通大学电子信息与电气工程学院工程硕博士培养改革专项](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10653.html)
 
+【报名截止：9.16】[上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/10659.html)
+
 ## 航天二院（中国航天科工防御技术研究院党校）
 
 【报名截止：10.16】[航天二院（中国航天科工防御技术研究院党校）](https://mp.weixin.qq.com/s/ysBhbJxqCzSwUAOXass-0A)
