@@ -120,9 +120,9 @@
 
 ~~【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)~~
 
-~~【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm) ~~
+~~【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)~~
 
-~~【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm) ~~
+~~【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)~~
 
 ~~【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)~~
 
