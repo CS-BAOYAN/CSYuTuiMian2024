@@ -208,6 +208,12 @@
 
 > [西安交通大学关于开展2025年招收推荐免试研究生预报名的通知](http://yz.xjtu.edu.cn/info/1082/4063.htm)
 
+【报名截止：9.21 24:00】[软件学院](https://se.xjtu.edu.cn/info/1043/2631.htm)
+
+【报名截止：9.22 20:00】[网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1961.htm)
+
+【报名截止：9.24 20:00】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3489.htm)
+
 ## 西北工业大学
 
 >【报名截止：9.26】[西北工业大学2025年接收推荐免试研究生预报名的通知](https://jsj.nwpu.edu.cn/info/1599/20385.htm)
@@ -330,6 +336,8 @@
 
 > [华南理工大学接收2025年推荐免试研究生预报名通知](https://yz.scut.edu.cn/2024/0819/c30674a559796/page.htm)
 >
+> [关于公布各院（系）2025年研究生招生预推免接收工作复试方案的通知](https://yz.scut.edu.cn/2024/0911/c30674a561802/page.htm)
+>
 > [华南理工大学关于接收2025年“智能EDA专项班”推免生报名的通知](https://yz.scut.edu.cn/2024/0829/c30674a560558/page.htm)
 
 ## 中央音乐学院
@@ -394,7 +402,7 @@
 
 【截止日期：9.12】[2025年工程硕博士培养改革专项推免生预选拔招生简章](https://yz.ustc.edu.cn/article/2734/182?num=-1)
 
-【截止日期：9.15】[2024年网络空间安全学院预推免招生公告](https://xly.ustc.edu.cn/news.php?newsid=1039)
+【截止日期：9.14 17:00】[2024年网络空间安全学院预推免招生公告](https://xly.ustc.edu.cn/news.php?newsid=1039) [2024年网络空间安全学院预推免招生补充公告](https://cybersec.ustc.edu.cn/2024/0912/c23826a653417/page.htm)
 
 【截止日期：9.16】[中国科学技术大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生 免试攻读博士研究生办法](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E4%B8%8E%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%9A%82%E5%90%8D%EF%BC%892025-2)
 
