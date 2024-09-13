@@ -11,13 +11,7 @@
 >
 >预祝大家预推免成功上岸！都有喜欢的offer！
 
-<details>
-
-<summary> 
-
 ## 清华大学
-
-</summary>
 
 > [清华大学夏令营信息](https://yz.tsinghua.edu.cn/xlyxx.htm) | [清华大学深圳国际研究生院夏令营信息](https://mp.weixin.qq.com/s/PQEUQqdUTbIW7d6GtqwNbA)
 > 
@@ -26,6 +20,10 @@
 > [清华大学2025年各院系博士生招生简章](https://yz.tsinghua.edu.cn/info/1024/2809.htm)
 >
 > [清华大学深圳国际研究生院2025年硕士研究生招生专业目录（推免）](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95819/page.htm)
+
+<details>
+
+<summary> 已截止的 </summary>
 
 ~~【报名截止：9.2】[高等研究院2025年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)~~
 
@@ -116,6 +114,10 @@
 
 > [浙江大学关于2025年接收外校推荐免试研究生工作安排的通知](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
 
+<details>
+
+<summary> 已截止的 </summary>
+
 ~~【报名截止：9.3 15:00】[生命科学研究院](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)~~
 
 ~~【报名截止：9.10】[信息与电子工程学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)~~
@@ -134,6 +136,8 @@
 
 ~~【报名截止：9.8】[“国优计划”](http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm)~~
 
+</details>
+
 ## 哈尔滨工业大学
 
 > [哈尔滨工业大学关于接收 2025年推免生（含直博生）工作安排的通知](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
@@ -145,7 +149,11 @@
 > [哈尔滨工业大学交通科学与工程学院2025年推免生（含直博生）接收工作细则](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
 >
 > [哈尔滨工业大学（深圳）电子与信息工程学院2025年推免生（含直博生）接收工作细则](http://eie.hitsz.edu.cn/info/1007/2631.htm)
->
+
+<details>
+
+<summary> 已截止的 </summary>
+
 > ~~【截止时间：9.6】[哈尔滨工业大学2025年“国优计划”专项研究生预报名通知](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)~~
 
 ~~【截止日期：8.6 18：00】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
@@ -158,11 +166,13 @@
 
 ~~【截止日期：9.9】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7452.htm)~~
 
-【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
-
 ~~【截止日期：第一批8.28；第二批9.4】[空间科学与应用技术研究院（深圳）](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)~~
 
 【截止日期：N/A】[计算机科学与技术学院（威海）](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
+
+</details>
+
+【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
 ## 中国航天科工集团第三研究院第三总体设计部
 
@@ -567,17 +577,15 @@
 
 ~~【报名截止：8.30】[前沿交叉科学技术研究院](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)~~
 
-<details>
-
-<summary>
-
 ## 东南大学
-
-</summary>
 
 > [东南大学夏令营信息](https://yzb.seu.edu.cn/2024/0618/c6676a494353/pagem.htm)
 >
 > [东南大学2025年度“国优计划”研究生专项招生报名通知](https://xxgk.seu.edu.cn/2024/0827/c10807a501080/page.htm)
+
+<details>
+
+<summary> 已截止的 </summary>
 
 ~~【报名截止：8.11 12:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)~~
 
