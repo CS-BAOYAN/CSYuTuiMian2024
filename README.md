@@ -272,7 +272,7 @@
 
 【报名截止：9.22 18:00】[网络空间安全学院](http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec89077fd760191cf896c0202bc)
 
-【报名截止：9.22 18:00】[计算机与人工智能学院、软件学院](www7.zzu.edu.cn/csai/info/1147/2538.htm)
+【报名截止：9.22 18:00】[计算机与人工智能学院、软件学院](http://www7.zzu.edu.cn/csai/info/1147/2538.htm)
 
 ## 暨南大学
 
