@@ -557,6 +557,8 @@
 
 > [陕西师范大学2025年接收推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
 
+【报名截止：9.17】[计算机科学学院](https://ccs.snnu.edu.cn/info/1061/11961.htm)
+
 ## 南京理工大学
 
 【报名截止：N/A】[计算机学院](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
