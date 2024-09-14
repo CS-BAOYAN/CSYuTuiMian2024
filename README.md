@@ -209,11 +209,11 @@
 
 ~~【报名截止：9.13 18:00】[计算机科学技术学院](https://cs.fudan.edu.cn/8a/d6/c24277a690902/page.htm)~~
 
+~~【报名截止：9.13 16:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4696)~~
+
 【报名截止：9.15 16:00】[大数据学院](https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm)
 
 【报名截止：9.15 16:00】[工程与应用技术研究院](https://faet.fudan.edu.cn/8b/9b/c23815a691099/page.htm)
-
-【报名截止：9.15 16:00】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4696)
 
 【报名截止：9.15 16:00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/6400.htm)
 
