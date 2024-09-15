@@ -674,6 +674,8 @@
 
 【报名截止：9.26】[计算机科学与技术学院](https://cstc.hrbeu.edu.cn/2024/0913/c3688a328871/page.htm)
 
+【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)
+
 ## 武汉理工大学
 
 > [武汉理工大学夏令营信息](https://mp.weixin.qq.com/s?__biz=MjM5NzkyNzI0Mg==&mid=2652728216&idx=1&sn=2b1bf3c66053073bb1ddbda6764e584a&chksm=bd3b4bbd8a4cc2ab7e2080a2c75cefeeab3a694d392e7f29bacb0fee55980bc6495ebf5ae850)
