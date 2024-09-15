@@ -383,6 +383,8 @@
 
 【报名截止：9.18 24:00】[中国科学院自动化研究所2025年工程硕博士培养改革专项推免面试通知](https://ia.cas.cn/yjsjy/zs/sszs/202409/t20240914_7364003.html)
 
+【报名截止：9.22】[国科大杭州高等研究院智能科学与技术学院接收2025级推荐免试生公告](http://hias.ucas.ac.cn/znkxyjs/info/1055/1761.htm)
+
 【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)
 
 【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
