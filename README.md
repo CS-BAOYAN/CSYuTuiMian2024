@@ -235,6 +235,8 @@
 
 >【报名截止：9.26】[西北工业大学2025年接收推荐免试研究生预报名的通知](https://yzb.nwpu.edu.cn/info/1174/9288.htm)
 
+【报名截止：9.22】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/7768.htm)
+
 ## 北京航空航天大学
 
 ~~【截止日期：8.14 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
