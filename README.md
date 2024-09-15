@@ -238,8 +238,11 @@
 【报名截止：9.22】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/7768.htm)
 
 ## 北京航空航天大学
+>[北航各学院接收推免攻读2025年研究生（含博士）相关通知](https://yzb.buaa.edu.cn/info/1036/3154.htm)
 
-~~【截止日期：8.14 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
+【报名截止：9.21 24:00】[计算机学院](https://scse.buaa.edu.cn/info/1099/11381.htm)
+
+~~【报名截止：8.14 18:00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
 ## 南开大学
 
