@@ -745,6 +745,8 @@
 
 【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)
 
+【报名截止：9.27】[水声工程学院2025年接收推免生预报名及复试工作的通知](https://uae.hrbeu.edu.cn/info/1058/4589.htm)
+
 ## 武汉理工大学
 
 > [武汉理工大学夏令营信息](https://mp.weixin.qq.com/s?__biz=MjM5NzkyNzI0Mg==&mid=2652728216&idx=1&sn=2b1bf3c66053073bb1ddbda6764e584a&chksm=bd3b4bbd8a4cc2ab7e2080a2c75cefeeab3a694d392e7f29bacb0fee55980bc6495ebf5ae850)
