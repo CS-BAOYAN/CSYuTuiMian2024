@@ -362,6 +362,10 @@
 
 【报名截止：9.17 24:00】[信息科学与技术学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://sist.swjtu.edu.cn/pc/bDdH8HttGDwUH0nMDrXEiDA/1yaM_T4qiBsFULvLXHbMflQ?id=8myi0UYt35yzxnekuwz61skH&lang=cn)
 
+## 长安大学
+
+【报名截止：9.23[信息工程学院2025年招收推荐免试攻读硕士研究生及本科直博生工作安排](https://it.chd.edu.cn/2024/0916/c7382a245696/page.htm)
+
 ## 太原理工大学
 
 【报名截止：9.18】[太原理工大学计算机科学与技术学院（大数据学院） 2025届免试攻读研究生工作办法](https://ccst.tyut.edu.cn/info/2123/10661.htm)
