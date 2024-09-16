@@ -243,6 +243,8 @@
 
 > [西安交通大学关于开展2025年招收推荐免试研究生预报名的通知](http://yz.xjtu.edu.cn/info/1082/4063.htm)
 
+【报名截止：9.18 24:00】[人工智能学院](http://www.aiar.xjtu.edu.cn/info/1028/3386.htm)
+
 【报名截止：9.21 24:00】[软件学院](https://se.xjtu.edu.cn/info/1043/3250.htm)
 
 【报名截止：9.22 20:00】[网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1961.htm)
