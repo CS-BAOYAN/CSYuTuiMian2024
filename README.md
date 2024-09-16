@@ -354,7 +354,11 @@
 
 ## 西南交通大学
 
+> 【报名截止：N/A】[西南交通大学“工程硕博士培养改革专项”招生通知](https://mp.weixin.qq.com/s/tbjOZM7xPuuWytsIcAvjRg)
+
 【报名截止：9.17 24:00】[2025年计算机与人工智能学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=b68515e4-2744-4f87-9e68-92a926a6c848)
+
+【报名截止：9.17 24:00】[信息科学与技术学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://sist.swjtu.edu.cn/pc/bDdH8HttGDwUH0nMDrXEiDA/1yaM_T4qiBsFULvLXHbMflQ?id=8myi0UYt35yzxnekuwz61skH&lang=cn)
 
 ## 太原理工大学
 
