@@ -116,6 +116,8 @@
 
 ## 南方科技大学
 
+【报名截止：9.19】[南方科技大学计算机科学与工程系2025年接收推荐免试研究生报名通知](https://cse.sustech.edu.cn/cn/news/view/id/1082)
+
 【报名截止：9.28】[生物医学工程系](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
 
 ~~【报名截止：9.15】[系统设计与智能制造学院](https://mp.weixin.qq.com/s/KHpzoQBSG6TuZ7WlYBwdRg)~~
@@ -379,6 +381,12 @@
 ## 长安大学
 
 【报名截止：9.23】[信息工程学院2025年招收推荐免试攻读硕士研究生及本科直博生工作安排](https://it.chd.edu.cn/2024/0916/c7382a245696/page.htm)
+
+
+## 福州大学
+
+> 【报名截止：N/A】[福州大学2025年推荐免试研究生（含硕士生和直博生）招生简章](https://yjsy.fzu.edu.cn/info/1071/5557.htm)
+
 
 ## 太原理工大学
 
