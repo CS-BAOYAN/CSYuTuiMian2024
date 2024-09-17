@@ -96,15 +96,23 @@
 
 ~~【报名截止：第一批7.25，第二批8.25】[交大密西根学院工学类专业2025年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)~~
 
-【报名截止：9.16】[上海交通大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生免试攻读博士研究生办法](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
+~~【报名截止：9.16】[上海交通大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生免试攻读博士研究生办法](https://yzb.sjtu.edu.cn/info/1008/4725.htm)~~
 
 ~~【报名截止：9.12】[上海交通大学电子信息与电气工程学院工程硕博士培养改革专项](https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10653.html)~~
 
-【报名截止：9.16】[上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/10659.html)
+~~【报名截止：9.16】[上海交通大学电子信息与电气工程学院2025级推荐免试直升研究生招生通知](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/10659.html)~~
 
 ## 航天二院（中国航天科工防御技术研究院党校）
 
 【报名截止：10.16】[航天二院（中国航天科工防御技术研究院党校）](https://mp.weixin.qq.com/s/ysBhbJxqCzSwUAOXass-0A)
+
+## 四川大学
+
+【报名截止：9.22 16:00】[计算机学院（软件学院 智能科学与技术学院）2025年接收推荐免试硕士和直博研究生预报名通知](https://cs.scu.edu.cn/info/1247/18579.htm)
+
+## 北京理工大学
+
+【报名截止：9.20】[网络空间安全学院2025年接收推荐免试研究生（含直博生）方案](https://cst.bit.edu.cn/xxfw/tzgg/bb017f985ad047b19a28ba8c629f8b32.htm)
 
 ## 南方科技大学
 
@@ -178,7 +186,7 @@
 
 </details>
 
-【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
+~~【截止日期：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)~~
 
 ## 中国航天科工集团第三研究院第三总体设计部
 
@@ -219,7 +227,7 @@
 
 > ~~【截止日期：9月2日16:00】[工程硕博士培养改革专项](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm) | [复旦大学2025年工程硕博士培养改革专项推荐免试研究生预选拔报名通知](https://mp.weixin.qq.com/s/HF5jY7egLaOWf7cxwRqcSA)~~
 
->【报名截止：9.15】[2025年推免生招生预选拔活动报名须知及各院系预选拔工作通知](https://gsao.fudan.edu.cn/8a/a3/c15014a690851/page.htm)
+~~【报名截止：9.15】[2025年推免生招生预选拔活动报名须知及各院系预选拔工作通知](https://gsao.fudan.edu.cn/8a/a3/c15014a690851/page.htm)~~
 
 <details>
 
@@ -278,7 +286,7 @@
 
 ## 华东师范大学
 
-> [华东师范大学2025年推荐免试招收研究生（含直接攻博） 预报名公告](https://yjszs.ecnu.edu.cn/8d/88/c43264a626056/page.htm)
+> [华东师范大学2025年推荐免试招收研究生（含直接攻博）预报名公告](https://yjszs.ecnu.edu.cn/8d/88/c43264a626056/page.htm)
 
 【报名截止：9.20 12:00】[数据科学与工程学院](https://mp.weixin.qq.com/s/ZgFbuU5EQUxGLJzC4J2Xxw)
 
@@ -364,6 +372,10 @@
 
 【报名截止：9.17 24:00】[信息科学与技术学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://sist.swjtu.edu.cn/pc/bDdH8HttGDwUH0nMDrXEiDA/1yaM_T4qiBsFULvLXHbMflQ?id=8myi0UYt35yzxnekuwz61skH&lang=cn)
 
+## 东北师范大学
+
+【报名截止：9.19 10:00】[信息科学与技术学院2025年接收优秀应届本科毕业生免试攻读研究生复试录取工作实施细则](https://ist.nenu.edu.cn/info/1157/5507.htm)
+
 ## 长安大学
 
 【报名截止：9.23】[信息工程学院2025年招收推荐免试攻读硕士研究生及本科直博生工作安排](https://it.chd.edu.cn/2024/0916/c7382a245696/page.htm)
@@ -411,6 +423,12 @@
 【报名截止：9.20】[生命学院](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
 
 【报名截止：9.20】[生物医学工程学院](https://mp.weixin.qq.com/s/yM6tDoVUyTJaMHZzyAyOKg)
+
+【报名截止：9.28 10:00】[信息科学与技术学院2025年工程博士改革专项推免直博生第二轮报名](https://mp.weixin.qq.com/s/RGRN3aJJhMgyQWtleu8X6w)
+
+## 成都理工大学
+
+【报名截止：9.27】[计算机与网络安全学院（示范性软件学院）2025年推荐免试攻读研究生预报名通知](https://cist.cdut.edu.cn/info/1145/6534.htm)
 
 ## 兰州大学
 
@@ -484,7 +502,7 @@
 
 【报名截止：N/A】[软件所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
 
-【报名截止：9.16 14:00】[计算机科学与技术学院2025年工程硕博士培养改革专项全日制工程硕博选拔通知](https://scce.ucas.edu.cn/index.php/zh-CN/tzgg/3518-2024-09-14-06-16-16)
+~~【报名截止：9.16 14:00】[计算机科学与技术学院2025年工程硕博士培养改革专项全日制工程硕博选拔通知](https://scce.ucas.edu.cn/index.php/zh-CN/tzgg/3518-2024-09-14-06-16-16)~~
 
 【报名截止：9.18 24:00】[中国科学院自动化研究所2025年工程硕博士培养改革专项推免面试通知](https://ia.cas.cn/yjsjy/zs/sszs/202409/t20240914_7364003.html)
 
@@ -500,7 +518,7 @@
 
 ~~【报名截止：8.30】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)~~
 
-【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)
+~~【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)~~
 
 ~~【报名截止：9.6 12:00】[计算技术研究所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html)~~
 
@@ -544,7 +562,7 @@
 
 ~~【截止日期：9.14 17:00】[2024年网络空间安全学院预推免招生公告](https://xly.ustc.edu.cn/news.php?newsid=1039) [2024年网络空间安全学院预推免招生补充公告](https://cybersec.ustc.edu.cn/2024/0912/c23826a653417/page.htm)~~
 
-【截止日期：9.16】[中国科学技术大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生 免试攻读博士研究生办法](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E4%B8%8E%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%9A%82%E5%90%8D%EF%BC%892025-2)
+~~【截止日期：9.16】[中国科学技术大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生 免试攻读博士研究生办法](https://www.eitech.edu.cn/?admission=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E4%B8%8E%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%9A%82%E5%90%8D%EF%BC%892025-2)~~
 
 【截止日期：9.18 18：00】[中国科学技术大学—北京通用人工智能研究院 2025年联合培养博士生专项计划](https://yz.ustc.edu.cn/article/2735/182?num=-1)
 
@@ -617,6 +635,8 @@
 >[国防科技大学接收2025级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案(推免预报名时间：预计9月7日00:00至9月22日24:00)](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
 
 >[国防科技大学2025年推荐免试研究生预推免报名系统即将开启](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13902)
+
+>[计算机学院2025级地方院校推荐免试硕士研究生（含推免生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905)
 
 ## 苏州大学
 
