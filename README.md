@@ -458,7 +458,7 @@
 
 > 【报名截止：9.23】[北京师范大学2025年接收校内外推荐免试硕士/博士研究生办法](https://yz.bnu.edu.cn/detail/d2f541dd-127b-4b40-a9b5-d6ec401812bd)
 
-> 【报名截止：9.23】[北京师范大学文理学院2025年接收优秀应届本科毕业生免试攻读研究生的通知](https://mp.weixin.qq.com/s/Pv5LXeOD6AoEmCKhiAmfXw)
+【报名截止：9.23 23:59】[北京师范大学文理学院2025年接收优秀应届本科毕业生免试攻读研究生的通知](https://mp.weixin.qq.com/s/Pv5LXeOD6AoEmCKhiAmfXw)
 
 ~~【报名截止：8.11】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
