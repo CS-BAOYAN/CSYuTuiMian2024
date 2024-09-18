@@ -294,6 +294,10 @@
 
 【报名截止：9.20 17:00】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/5341.htm)
 
+【报名截止：9.23 12:00】[计算机（网安）学院](https://www.scse.uestc.edu.cn/info/1015/16425.htm)
+
+【报名截止：9.23 9:00】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12772.htm)
+
 ## 华东师范大学
 
 > [华东师范大学2025年推荐免试招收研究生（含直接攻博）预报名公告](https://yjszs.ecnu.edu.cn/8d/88/c43264a626056/page.htm)
