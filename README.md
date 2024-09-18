@@ -108,15 +108,15 @@
 
 ## 四川大学
 
-【报名截止：9.22 16:00】[计算机学院（软件学院 智能科学与技术学院）2025年接收推荐免试硕士和直博研究生预报名通知](https://cs.scu.edu.cn/info/1247/18579.htm)
+【报名截止：9.22 16:00】[计算机学院（软件学院 智能科学与技术学院）](https://cs.scu.edu.cn/info/1247/18579.htm)
 
 ## 北京理工大学
 
-【报名截止：9.20】[网络空间安全学院2025年接收推荐免试研究生（含直博生）方案](https://cst.bit.edu.cn/xxfw/tzgg/bb017f985ad047b19a28ba8c629f8b32.htm)
+【报名截止：9.20】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/bb017f985ad047b19a28ba8c629f8b32.htm)
 
 ## 南方科技大学
 
-【报名截止：9.19】[南方科技大学计算机科学与工程系2025年接收推荐免试研究生报名通知](https://cse.sustech.edu.cn/cn/news/view/id/1082)
+【报名截止：9.19】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1082)
 
 【报名截止：9.28】[生物医学工程系](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
 
@@ -271,10 +271,18 @@
 
 ## 北京航空航天大学
 >[北航各学院接收推免攻读2025年研究生（含博士）相关通知](https://yzb.buaa.edu.cn/info/1036/3154.htm)
+>
+>【报名截止：9.20 19:00】[软件学院接收强基计划推免生申请攻读 2025 年博士研究生的工作办法](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11412)
 
 【报名截止：9.21 24:00】[计算机学院](https://scse.buaa.edu.cn/info/1099/11381.htm)
 
-~~【报名截止：8.14 18:00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
+【报名截止：9.20 19:00】[装置院](https://piqs.buaa.edu.cn/info/1038/2327.htm)
+
+【报名截止：9.19 22:00】[网络空间学院](https://cst.buaa.edu.cn/info/1062/3749.htm)
+
+【报名截止：9.20 12:00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2278.htm)
+
+【报名截止：9.20 18:00】[电子信息工程学院](https://www.ee.buaa.edu.cn/info/1062/18732.htm)
 
 ## 南开大学
 
@@ -404,9 +412,9 @@
 
 ## 西南大学
 
-【报名截止：9.23 17:00】[计算机与信息科学学院 软件学院关于接收2025年优秀应届本科毕业生推荐免（初）试攻读研究生（含国优计划）的预报名通知](https://cis.swu.edu.cn/info/1145/4885.htm)
+【报名截止：9.23 17:00】[计算机与信息科学学院、软件学院（含国优计划）](https://cis.swu.edu.cn/info/1145/4885.htm)
 
-【报名截止：9.24 17:00】[人工智能学院关于接收2025年优秀应届本科毕业生推荐免（初）试攻读研究生的预报名通知](http://ai.swu.edu.cn/info/1102/3055.htm)
+【报名截止：9.24 17:00】[人工智能学院](http://ai.swu.edu.cn/info/1102/3055.htm)
 
 ## 华中师范大学
 
@@ -530,6 +538,10 @@
 
 ~~【报名截止：9.6 12:00】[计算技术研究所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html)~~
 
+## 中国科学院大学
+
+【报名截止：9.24】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/518-2025)
+
 ## 山东大学
 
 > 【报名开始时间：9.1 9:00】[山东大学2025年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
@@ -627,6 +639,8 @@
 【截止日期：9.19】[中国海洋大学接收2025年推荐免试研究生的通知](https://yz.ouc.edu.cn/2024/0827/c5926a482049/page.htm)
 
 【截止日期：9.19】[中国海洋大学2025年接收“创新人才培养专项计划”研究生](https://yz.ouc.edu.cn/2024/0827/c5926a482047/page.htm)
+
+【截止日期：9.23】[中国海洋大学三亚海洋研究院](http://soi.ouc.edu.cn/archive/info/1086)
 
 ## 深圳大学
 
@@ -735,6 +749,8 @@
 > [北京科技大学各培养单位接收2025年推荐免试硕士研究生（含直博生）预报名活动通知汇总](https://yzxc.ustb.edu.cn/xlytm/hdap/0b8e3ab055724b2eb002f7105c7e722f.htm)
 >
 > ~~【报名截止：9.1】[北京科技大学“校企联合培养工程硕博士”专项计划](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)~~
+>
+> 【报名截止：9.18 12：00】[北京科技大学“校企联合培养工程硕博士”专项计划（第三批）](https://yzxc.ustb.edu.cn/xlytm/hdap/f7077ed992554cf499cba3e544d356ba.htm)
 
 ~~【报名截止：8.30 17:00】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)~~
 
