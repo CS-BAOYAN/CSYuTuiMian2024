@@ -298,6 +298,22 @@
 
 【报名截止：9.23 9:00】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12772.htm)
 
+
+## 北京师范大学
+
+> 【报名截止：9.23】[北京师范大学2025年接收校内外推荐免试硕士/博士研究生办法](https://yz.bnu.edu.cn/detail/d2f541dd-127b-4b40-a9b5-d6ec401812bd)
+【报名截止：9.23 23:59】[北京师范大学文理学院2025年接收优秀应届本科毕业生免试攻读研究生的通知](https://mp.weixin.qq.com/s/Pv5LXeOD6AoEmCKhiAmfXw)
+
+~~【报名截止：8.11】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
+
+
+
+## 武汉大学
+
+【报名截止：9.21 12:00】[计算机学院关于接收2025年推免生预报名的通知]((https://cs.whu.edu.cn/info/1071/46641.htm))
+
+
+
 ## 华东师范大学
 
 > [华东师范大学2025年推荐免试招收研究生（含直接攻博）预报名公告](https://yjszs.ecnu.edu.cn/8d/88/c43264a626056/page.htm)
@@ -496,13 +512,6 @@
 
 【截止日期：9.25 23：00】[中国人民解放军战略支援部队信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
 
-## 北京师范大学
-
-> 【报名截止：9.23】[北京师范大学2025年接收校内外推荐免试硕士/博士研究生办法](https://yz.bnu.edu.cn/detail/d2f541dd-127b-4b40-a9b5-d6ec401812bd)
-
-【报名截止：9.23 23:59】[北京师范大学文理学院2025年接收优秀应届本科毕业生免试攻读研究生的通知](https://mp.weixin.qq.com/s/Pv5LXeOD6AoEmCKhiAmfXw)
-
-~~【报名截止：8.11】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
 ## 华南理工大学
 
