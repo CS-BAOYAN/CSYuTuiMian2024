@@ -382,9 +382,9 @@
 
 > 【报名截止：N/A】[西南交通大学“工程硕博士培养改革专项”招生通知](https://mp.weixin.qq.com/s/tbjOZM7xPuuWytsIcAvjRg)
 
-【报名截止：9.17 24:00】[2025年计算机与人工智能学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=b68515e4-2744-4f87-9e68-92a926a6c848)
+~~【报名截止：9.17 24:00】[2025年计算机与人工智能学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=b68515e4-2744-4f87-9e68-92a926a6c848)~~
 
-【报名截止：9.17 24:00】[信息科学与技术学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://sist.swjtu.edu.cn/pc/bDdH8HttGDwUH0nMDrXEiDA/1yaM_T4qiBsFULvLXHbMflQ?id=8myi0UYt35yzxnekuwz61skH&lang=cn)
+~~【报名截止：9.17 24:00】[信息科学与技术学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://sist.swjtu.edu.cn/pc/bDdH8HttGDwUH0nMDrXEiDA/1yaM_T4qiBsFULvLXHbMflQ?id=8myi0UYt35yzxnekuwz61skH&lang=cn)~~
 
 ## 东北师范大学
 
@@ -508,7 +508,7 @@
 
 > [华南理工大学关于接收2025年“智能EDA专项班”推免生报名的通知](https://yz.scut.edu.cn/2024/0829/c30674a560558/page.htm)
 
-【截止日期：9.17 20:00】[计算机科学与工程学院关于2025年推荐免试研究生预报名截止时间的通知](https://www2.scut.edu.cn/cs/2024/0912/c22295a561864/page.htm)
+~~【截止日期：9.17 20:00】[计算机科学与工程学院关于2025年推荐免试研究生预报名截止时间的通知](https://www2.scut.edu.cn/cs/2024/0912/c22295a561864/page.htm)~~
 
 ## 中央音乐学院
 
@@ -735,7 +735,7 @@
 
 > [陕西师范大学2025年接收推荐免试研究生预报名公告](http://yz.snnu.edu.cn/info/1009/3703.htm)
 
-【报名截止：9.17】[计算机科学学院](https://ccs.snnu.edu.cn/info/1061/11961.htm)
+~~【报名截止：9.17】[计算机科学学院](https://ccs.snnu.edu.cn/info/1061/11961.htm)~~
 
 ## 南京理工大学
 
@@ -809,7 +809,7 @@
 
 > [华中农业大学夏令营信息](https://yjs.hzau.edu.cn/info/1189/10035.htm)
 
-【报名截止：9.17】[信息学院](https://coi.hzau.edu.cn/info/1015/12503.htm)
+~~【报名截止：9.17】[信息学院](https://coi.hzau.edu.cn/info/1015/12503.htm)~~
 
 ## 哈尔滨工程大学
 
