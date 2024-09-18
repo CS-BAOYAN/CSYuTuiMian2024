@@ -430,6 +430,10 @@
 
 >【报名截止：9.19】[暨南大学2025年接收全国高校优秀应届本科推免生报名公告](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
 
+## 广州大学
+
+>【报名截止：N/A】[广州大学2025年接收推荐免试攻读硕士学位研究生预报名通知](https://mp.weixin.qq.com/s/VGRJxK1wqg9Xh5lnKPGSjA)
+
 ## 西南财经大学
 
 ~~【报名截止：8.31】[计算机与人工智能学院](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2025/02_jt/01bm/yxsxz/011.pdf)~~
