@@ -879,3 +879,7 @@
 ## 中国林业科学研究院
 
 ~~【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)~~
+
+## 重庆大学
+
+【报名截止：9.20】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2655.htm)
