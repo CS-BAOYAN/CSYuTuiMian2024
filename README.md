@@ -310,13 +310,13 @@
 
 【报名截止：9.23 17:00】[信息与通信工程学院](https://www.sice.uestc.edu.cn/info/1142/14636.htm)
 
-【报名截止：9.23 10:00】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12772.htm)
-
 【报名截止：9.22 18:00】[通信抗干扰全国重点实验室](https://www.ncl.uestc.edu.cn/info/1083/3147.htm)
 
 【报名截止：9.23 12:00】[计算机（网安）学院](https://www.scse.uestc.edu.cn/info/1015/16425.htm)
 
 【报名截止：9.23 9:00】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12772.htm)
+
+【报名截止：9.23 12:00】[智能计算研究院](https://icct.uestc.edu.cn/info/1029/1720.htm)
 
 
 ## 北京师范大学
