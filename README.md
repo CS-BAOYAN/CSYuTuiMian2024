@@ -114,6 +114,8 @@
 
 【报名截止：9.22 24:00】[前沿科学中心](https://yjs.cd120.com/contents/412/5014.html)
 
+【报名截止：9.23 16:00】[电子信息学院](https://eie.scu.edu.cn/info/1025/12872.htm)
+
 ## 北京理工大学
 
 【报名截止：10.20】[自动化学院](https://ac.bit.edu.cn/tzgg/e579c9b60e0443159ad202ab1db2c033.htm)
@@ -305,6 +307,8 @@
 ## 电子科技大学
 
 > [电子科技大学关于2025年接收优秀应届本科毕业生免试攻读研究生的通知](https://yz.uestc.edu.cn/info/1081/5279.htm)
+>
+> [电子科技大学智能计算研究院2025年接收优秀应届本科毕业生免试攻读研究生工作安排通知](https://icct.uestc.edu.cn/info/1029/1720.htm)
 
 【报名截止：9.20 17:00】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/5341.htm)
 
@@ -318,6 +322,13 @@
 
 【报名截止：9.23 12:00】[智能计算研究院](https://icct.uestc.edu.cn/info/1029/1720.htm)
 
+## 北京邮电大学
+
+【报名截止：9.26】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1020/3947.htm)
+
+~~【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)~~
+
+~~【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)~~
 
 ## 北京师范大学
 
@@ -329,6 +340,10 @@
 ## 武汉大学
 
 【报名截止：9.21 12:00】[计算机学院](https://cs.whu.edu.cn/info/1071/46641.htm)
+
+【报名截止：9.21 12:00】[测绘遥感实验室](https://liesmars.whu.edu.cn/info/1058/17123.htm)
+
+【报名截止：9.22 15:00】[网络安全学院](https://cse.whu.edu.cn/info/2501/32581.htm)
 
 【报名截止：9.27 14:00】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/98610.htm)
 
@@ -358,7 +373,9 @@
 
 ~~【报名截止: 9.15】[湖南大学国优计划](https://gra.hnu.edu.cn/info/1075/9696.htm)~~
 
-【报名截止：9.19】[卓越工程师学院工程硕博](https://gra.hnu.edu.cn/info/1075/9699.htm)
+~~【报名截止：9.19】[卓越工程师学院工程硕博](https://gra.hnu.edu.cn/info/1075/9699.htm)~~
+
+【报名截止：9.22】[信息科学与工程学院](https://csee.hnu.edu.cn/info/1062/13306.htm)
 
 ## 厦门大学
 
@@ -635,6 +652,10 @@
 
 ## 吉林大学
 
+【截止日期：9.23 9：00】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1229/19813.htm)
+
+【截止日期：9.23 9：00】[人工智能学院](https://sai.jlu.edu.cn/info/1033/4779.htm)
+
 ~~【截止日期：9.7】[人工智能学院-“工程硕博士校企联合培养”专项推免生](https://sai.jlu.edu.cn/info/1066/4765.htm)~~
 
 ## 东北财经大学
@@ -699,6 +720,8 @@
 
 >[计算机学院2025级地方院校推荐免试硕士研究生（含推免生、参军入伍生）工作方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905)
 
+【截止日期：9.22】[电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13925)
+
 ## 苏州大学
 
 > 计算机科学与技术学院(软件学院)分两批次考试，只能选择一个参加
@@ -748,6 +771,18 @@
 ## 南京农业大学
 
 【报名截止：9.23】[关于接收2025年推免生（含直博生）提前申请的通知](https://zsgz.njau.edu.cn/info/1007/1571.htm)
+
+## 哈尔滨工程大学
+
+【报名截止：9.26】[计算机科学与技术学院](https://cstc.hrbeu.edu.cn/2024/0913/c3688a328871/page.htm)
+
+【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)
+
+【报名截止：9.27】[水声工程学院2025年接收推免生预报名及复试工作的通知](https://uae.hrbeu.edu.cn/info/1058/4589.htm)
+
+## 重庆大学
+
+【报名截止：9.20】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2655.htm)
 
 ## 南京邮电大学
 
@@ -846,14 +881,6 @@
 
 ~~【报名截止：9.17】[信息学院](https://coi.hzau.edu.cn/info/1015/12503.htm)~~
 
-## 哈尔滨工程大学
-
-【报名截止：9.26】[计算机科学与技术学院](https://cstc.hrbeu.edu.cn/2024/0913/c3688a328871/page.htm)
-
-【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)
-
-【报名截止：9.27】[水声工程学院2025年接收推免生预报名及复试工作的通知](https://uae.hrbeu.edu.cn/info/1058/4589.htm)
-
 ## 武汉理工大学
 
 > [武汉理工大学夏令营信息](https://mp.weixin.qq.com/s?__biz=MjM5NzkyNzI0Mg==&mid=2652728216&idx=1&sn=2b1bf3c66053073bb1ddbda6764e584a&chksm=bd3b4bbd8a4cc2ab7e2080a2c75cefeeab3a694d392e7f29bacb0fee55980bc6495ebf5ae850)
@@ -866,11 +893,6 @@
 
 ~~【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)~~
 
-## 北京邮电大学
-
-~~【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)~~
-
-~~【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)~~
 
 ## 中国农业大学
 
@@ -880,6 +902,3 @@
 
 ~~【报名截止：7.22】[资源信息研究所](https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw)~~
 
-## 重庆大学
-
-【报名截止：9.20】[重庆卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2655.htm)
