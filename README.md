@@ -419,6 +419,8 @@
 
 【报名截止：9.21 18:00】[软件学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254690)
 
+【报名截止：9.21 22:00】[网络空间安全学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254096)
+
 ## 郑州大学
 
 > [郑州大学2025年推免生（含直博生）预报名系统开通通知](http://gs.zzu.edu.cn/info/1023/13202.htm)
