@@ -349,9 +349,9 @@
 
 ## 武汉大学
 
-【报名截止：9.21 12:00】[计算机学院](https://cs.whu.edu.cn/info/1071/46641.htm)
+~~【报名截止：9.21 12:00】[计算机学院](https://cs.whu.edu.cn/info/1071/46641.htm)~~
 
-【报名截止：9.21 12:00】[测绘遥感实验室](https://liesmars.whu.edu.cn/info/1058/17123.htm)
+~~【报名截止：9.21 12:00】[测绘遥感实验室](https://liesmars.whu.edu.cn/info/1058/17123.htm)~~
 
 【报名截止：9.22 15:00】[网络安全学院](https://cse.whu.edu.cn/info/2501/32581.htm)
 
@@ -415,11 +415,11 @@
 
 【报名截止：9.22 17:00】[人工智能与自动化学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254577)
 
-【报名截止：9.21 12:00】[计算机科学与技术学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13253859)
-
 【报名截止：9.21 18:00】[软件学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254690)
 
 【报名截止：9.21 22:00】[网络空间安全学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254096)
+
+~~【报名截止：9.21 12:00】[计算机科学与技术学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13253859)~~
 
 ## 郑州大学
 
