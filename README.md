@@ -409,13 +409,15 @@
 
 > [华中科技大学关于开展2025年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知](https://gszs.hust.edu.cn/info/1106/3841.htm)
 > 
-> [华中科技大学关于开展2025年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知](http://www.cs.hust.edu.cn/info/1439/4319.htm)
+> [计算机科学与技术学院转：华中科技大学关于开展2025年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知](https://cs.hust.edu.cn/info/1439/4319.htm)
 >
 > [华中科技大学软件学院2025年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知](https://sse.hust.edu.cn/info/1022/3819.htm)
 
-【报名截止：9.22 17:00】[人工智能与自动化学院](https://gszs.hust.edu.cn/info/1106/3841.htm)
+【报名截止：9.22 17:00】[人工智能与自动化学院](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254577)
 
-【报名截止：9.21 12:00】[计算机科学与技术学院](https://gszs.hust.edu.cn/info/1106/3841.htm)
+【报名截止：9.21 12:00】[计算机科学与技术学院](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13253859)
+
+【报名截止：9.21 18:00】[软件学院](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254690)
 
 ## 郑州大学
 
