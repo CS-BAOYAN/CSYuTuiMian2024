@@ -269,7 +269,7 @@
 
 ~~【报名截止：9.18 24:00】[人工智能学院](http://www.aiar.xjtu.edu.cn/info/1028/3386.htm)~~
 
-【报名截止：9.21 24:00】[软件学院](https://se.xjtu.edu.cn/info/1043/3250.htm)
+~~【报名截止：9.21 24:00】[软件学院](https://se.xjtu.edu.cn/info/1043/3250.htm)~~
 
 【报名截止：9.22 20:00】[网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1961.htm)
 
@@ -278,6 +278,8 @@
 【报名截止：9.24 24:00】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4128.htm)
 
 【报名截止：9.24 24:00】[电子与信息学部“国优计划”](https://eiegrad.xjtu.edu.cn/info/1013/3487.htm)
+
+【报名截止：9.22】[网络空间安全学院工程硕博士专项](http://cybersec.xjtu.edu.cn/info/1017/1966.htm)
 
 ## 西北工业大学
 
@@ -292,7 +294,7 @@
 >
 >~~【报名截止：9.20 19:00】[软件学院接收强基计划推免生申请攻读 2025 年博士研究生的工作办法](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11412)~~
 
-【报名截止：9.21 24:00】[计算机学院](https://scse.buaa.edu.cn/info/1099/11381.htm)
+~~【报名截止：9.21 24:00】[计算机学院](https://scse.buaa.edu.cn/info/1099/11381.htm)~~
 
 ~~【报名截止：9.20 19:00】[装置院](https://piqs.buaa.edu.cn/info/1038/2327.htm)~~
 
@@ -331,6 +333,9 @@
 【报名截止：9.23 12:00】[智能计算研究院](https://icct.uestc.edu.cn/info/1029/1720.htm)
 
 ## 北京邮电大学
+> [北京邮电大学人工智能学院关于接收2025年推荐免试研究生（含直接攻博）的复试办法](https://ai.bupt.edu.cn/info/1065/3543.htm)
+>
+> [北京邮电大学网络空间安全学院2025年推荐免试研究生（含硕士生和直博生）接收、复试办法](https://scss.bupt.edu.cn/info/1110/5667.htm)
 
 【报名截止：9.26】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1020/3947.htm)
 
@@ -343,7 +348,8 @@
 ## 北京师范大学
 
 > 【报名截止：9.23】[北京师范大学2025年接收校内外推荐免试硕士/博士研究生办法](https://yz.bnu.edu.cn/detail/d2f541dd-127b-4b40-a9b5-d6ec401812bd)
-【报名截止：9.23 23:59】[北京师范大学文理学院2025年接收优秀应届本科毕业生免试攻读研究生的通知](https://mp.weixin.qq.com/s/Pv5LXeOD6AoEmCKhiAmfXw)
+>
+> 【报名截止：9.23 23:59】[北京师范大学文理学院2025年接收优秀应届本科毕业生免试攻读研究生的通知](https://mp.weixin.qq.com/s/Pv5LXeOD6AoEmCKhiAmfXw)
 
 ~~【报名截止：8.11】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
@@ -415,9 +421,9 @@
 
 【报名截止：9.22 17:00】[人工智能与自动化学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254577)
 
-【报名截止：9.21 18:00】[软件学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254690)
+~~【报名截止：9.21 18:00】[软件学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254690)~~
 
-【报名截止：9.21 22:00】[网络空间安全学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254096)
+~~【报名截止：9.21 22:00】[网络空间安全学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13254096)~~
 
 ~~【报名截止：9.21 12:00】[计算机科学与技术学院工作细则](https://gszs.hust.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1680431565&wbfileid=13253859)~~
 
@@ -445,6 +451,18 @@
 
 >【报名截止：9.29】[苏州科技大学2025年接收推荐免试攻读硕士研究生预报名通知](https://yjsb.usts.edu.cn/info/1048/4022.htm)
 
+## 中国石油大学
+
+【报名截止：9.24 23：59】[人工智能学院](https://www.cup.edu.cn/cupai/tzgg/9f59662debb442c7bd5c1bf8b54f9c80.htm)
+
+## 首都师范大学
+
+【报名截止：9.26 12：00】[信息工程学院](https://iec.cnu.edu.cn/ggml/tzgg1/9182cb713f5e4bdca26849dd20634454.htm)
+
+## 河海大学
+
+【报名截止：9.22 12：00】[人工智能与自动化学院](https://ai.hhu.edu.cn/2024/0920/c15659a289033/page.htm)
+
 ## 安徽大学
 
 ~~【报名截止：9.20 8:00】[安徽大学电子信息工程学院2025年推免生招生预选拔工作通知](https://dy.ahu.edu.cn/2024/0913/c11063a347395/page.htm)~~
@@ -459,7 +477,7 @@
 
 > 【报名截止：N/A】[西南交通大学“工程硕博士培养改革专项”招生通知](https://mp.weixin.qq.com/s/tbjOZM7xPuuWytsIcAvjRg)
 
-【报名截止：9.21 24:00】[计算机与人工智能学院2025级推免生意向征集通知](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=54754ae5-6b0a-40d2-be9b-1e2b1ad1f721)
+~~【报名截止：9.21 24:00】[计算机与人工智能学院2025级推免生意向征集通知](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=54754ae5-6b0a-40d2-be9b-1e2b1ad1f721)~~
 
 ~~【报名截止：9.17 24:00】[2025年计算机与人工智能学院工程硕博士培养改革专项接收推荐免试研究生报名通知](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=b68515e4-2744-4f87-9e68-92a926a6c848)~~
 
