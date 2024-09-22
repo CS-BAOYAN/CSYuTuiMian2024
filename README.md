@@ -124,6 +124,8 @@
 
 【报名截止：9.23】[医学技术学院](https://smt.bit.edu.cn/tzgg/09c69c8da51949a98d45e0581678d823.htm)
 
+【报名截止：9.26】[2024年北京理工大学珠海校区推免生预报名（含本直博生）](https://mp.weixin.qq.com/s/xcsLuIxOQE5e0TDyFqRz8g)
+
 ~~【报名截止：9.20】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/bb017f985ad047b19a28ba8c629f8b32.htm)~~
 
 ## 南方科技大学
@@ -494,6 +496,8 @@
 ## 福州大学
 
 > 【报名截止：N/A】[福州大学2025年推荐免试研究生（含硕士生和直博生）招生简章](https://yjsy.fzu.edu.cn/info/1071/5557.htm)
+
+【报名截止：9.22】[2024年计算机与大数据学院/软件学院2025年招收直博生、硕士生推免复试方案及实施细则](https://ccds.fzu.edu.cn/info/1138/10652.htm)
 
 ## 火箭军工程大学
 
