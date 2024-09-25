@@ -269,7 +269,7 @@
 
 > [西安交通大学关于开展2025年招收推荐免试研究生预报名的通知](http://yz.xjtu.edu.cn/info/1082/4063.htm)
 >
-> 【报名截止：9.24】[西安交通大学“工程硕博士专项”招生简章](https://mp.weixin.qq.com/s/f7rrFLS3Us8OwzySzl-K8g)
+> ~~【报名截止：9.24】[西安交通大学“工程硕博士专项”招生简章](https://mp.weixin.qq.com/s/f7rrFLS3Us8OwzySzl-K8g)~~
 
 ~~【报名截止：9.18 24:00】[人工智能学院](http://www.aiar.xjtu.edu.cn/info/1028/3386.htm)~~
 
@@ -277,11 +277,11 @@
 
 ~~【报名截止：9.22 20:00】[网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1961.htm)~~
 
-【报名截止：9.24 20:00】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3489.htm)
+~~【报名截止：9.24 20:00】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3489.htm)~~
 
-【报名截止：9.24 24:00】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4128.htm)
+~~【报名截止：9.24 24:00】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1013/4128.htm)~~
 
-【报名截止：9.24 24:00】[电子与信息学部“国优计划”](https://eiegrad.xjtu.edu.cn/info/1013/3487.htm)
+~~【报名截止：9.24 24:00】[电子与信息学部“国优计划”](https://eiegrad.xjtu.edu.cn/info/1013/3487.htm)~~
 
 ~~【报名截止：9.22】[网络空间安全学院工程硕博士专项](http://cybersec.xjtu.edu.cn/info/1017/1966.htm)~~
 
@@ -291,7 +291,7 @@
 
 ~~【报名截止：9.22】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/7768.htm)~~
 
-【报名截止：9.24】[电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30571.htm)
+~~【报名截止：9.24】[电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30571.htm)~~
 
 ## 北京航空航天大学
 >[北航各学院接收推免攻读2025年研究生（含博士）相关通知](https://yzb.buaa.edu.cn/info/1036/3154.htm)
@@ -461,11 +461,11 @@
 
 ## 中国石油大学
 
-【报名截止：9.24 23：59】[人工智能学院](https://www.cup.edu.cn/cupai/tzgg/9f59662debb442c7bd5c1bf8b54f9c80.htm)
+~~【报名截止：9.24 23：59】[人工智能学院](https://www.cup.edu.cn/cupai/tzgg/9f59662debb442c7bd5c1bf8b54f9c80.htm)~~
 
 ## 华南师范大学
 
-【报名截止：9.24 15：00】[人工智能学院](http://ai.scnu.edu.cn/a/20240921/244.html)
+~~【报名截止：9.24 15：00】[人工智能学院](http://ai.scnu.edu.cn/a/20240921/244.html)~~
 
 ## 首都师范大学
 
@@ -513,7 +513,7 @@
 
 ## 火箭军工程大学
 
-> 【报名截止：9.24 12:00】[火箭军工程大学2025年接收推荐免试硕士研究生公告](https://mp.weixin.qq.com/s/n-Iw8FjpLiORozmNBGpzQQ)
+> ~~【报名截止：9.24 12:00】[火箭军工程大学2025年接收推荐免试硕士研究生公告](https://mp.weixin.qq.com/s/n-Iw8FjpLiORozmNBGpzQQ)~~
 
 ## 中国人民解放军军事科学院
 
@@ -559,7 +559,7 @@
 
 ~~【报名截止：9.23 17:00】[计算机与信息科学学院、软件学院（含国优计划）](https://cis.swu.edu.cn/info/1145/4885.htm)~~
 
-【报名截止：9.24 17:00】[人工智能学院](http://ai.swu.edu.cn/info/1102/3055.htm)
+~~【报名截止：9.24 17:00】[人工智能学院](http://ai.swu.edu.cn/info/1102/3055.htm)~~
 
 ## 华中师范大学
 
@@ -686,7 +686,7 @@
 
 ## 中国科学院大学
 
-【报名截止：9.24】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/518-2025)
+~~【报名截止：9.24】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/518-2025)~~
 
 ## 山东大学
 
