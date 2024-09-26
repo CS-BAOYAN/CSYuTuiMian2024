@@ -445,7 +445,7 @@
 
 【报名截止：9.23 12:00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/202313885.htm)
 
-【报名截止：9.25】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/22612C43A60767BEE060403B57031859)
+~~【报名截止：9.25】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/22612C43A60767BEE060403B57031859)~~
 
 ~~【报名截止：9.18 14:00】[软件学院2025年招收推荐免试攻读硕士研究生办法](http://rjxy.bjtu.edu.cn/cms/item/1013.html)~~
 
@@ -453,7 +453,7 @@
 
 ~~【报名截止：9.23 12:00】[网络空间安全学院招收2025年推荐免试攻读硕士（博士）研究生办法](https://bmxy.bjtu.edu.cn/cms/item/184.html)~~
 
-【报名截止：9.25】[自动化与智能学院2025年招收推荐免试攻读硕士（博士）研究生实施方案](https://ai.bjtu.edu.cn/rcpy/yjspy/zsxx/202313911.htm)
+~~【报名截止：9.25】[自动化与智能学院2025年招收推荐免试攻读硕士（博士）研究生实施方案](https://ai.bjtu.edu.cn/rcpy/yjspy/zsxx/202313911.htm)~~
 
 ## 苏州科技大学
 
@@ -537,7 +537,7 @@
 
 ## 辽宁大学
 
-【报名截止：9.25】[信息学部](https://sist.lnu.edu.cn/info/12675/1994.htm)
+~~【报名截止：9.25】[信息学部](https://sist.lnu.edu.cn/info/12675/1994.htm)~~
 
 ## 太原理工大学
 
@@ -635,7 +635,7 @@
 
 ## 中国人民解放军战略支援部队信息工程大学
 
-【截止日期：9.25 23：00】[中国人民解放军战略支援部队信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
+~~【截止日期：9.25 23：00】[中国人民解放军战略支援部队信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)~~
 
 
 ## 华南理工大学
@@ -666,7 +666,7 @@
 
 ~~【报名截止：9.22】[国科大杭州高等研究院智能科学与技术学院接收2025级推荐免试生公告](http://hias.ucas.ac.cn/znkxyjs/info/1055/1761.htm)~~
 
-【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)
+~~【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)~~
 
 【报名截止：9.27】[重庆研究院](http://www.cigit.cas.cn/yjsjy/sszs/ssjz/202409/t20240923_7378571.html)
 
@@ -732,9 +732,9 @@
 
 ~~【截止日期：9.18 18：00】[中国科学技术大学—北京通用人工智能研究院 2025年联合培养博士生专项计划](https://yz.ustc.edu.cn/article/2735/182?num=-1)~~
 
-【截止日期：9.25】[中国科学技术大学先进技术研究院2025年推免生接收办法](https://iat.ustc.edu.cn/iat/x198/20240914/7080.html)
+~~【截止日期：9.25】[中国科学技术大学先进技术研究院2025年推免生接收办法](https://iat.ustc.edu.cn/iat/x198/20240914/7080.html)~~
 
-【截止日期：9.25】[中国科学技术大学研究生院科学岛分院2025年接收推免生](https://www.hf.cas.cn/sbpy/yjsc/zs/sszs/202409/t20240910_7342840.html)
+~~【截止日期：9.25】[中国科学技术大学研究生院科学岛分院2025年接收推免生](https://www.hf.cas.cn/sbpy/yjsc/zs/sszs/202409/t20240910_7342840.html)~~
 
 ## 东北大学
 
@@ -816,7 +816,7 @@
 
 ## 海军工程大学
 
-【截止日期：9.25】[海军工程大学2025年接收外校推荐免试硕士研究生实施办法](https://mp.weixin.qq.com/s/AyS-79kyLnaaoOnXt5_PWA)
+~~【截止日期：9.25】[海军工程大学2025年接收外校推荐免试硕士研究生实施办法](https://mp.weixin.qq.com/s/AyS-79kyLnaaoOnXt5_PWA)~~
 
 ## 苏州大学
 
@@ -844,9 +844,9 @@
 
 【报名截止：9.30】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)
 
-【报名截止：9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9854.htm)
+~~【报名截止：9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9854.htm)~~
 
-【报名截止：9.25】[中央企业联合培养](https://gr.xidian.edu.cn/info/1074/13884.htm)
+~~【报名截止：9.25】[中央企业联合培养](https://gr.xidian.edu.cn/info/1074/13884.htm)~~
 
 【报名截止：9.30】[卓越工程师学院长三角基地](https://mp.weixin.qq.com/s/_IKz_8qH_TaAGZf-PG9Quw)
 
