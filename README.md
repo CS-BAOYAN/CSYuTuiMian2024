@@ -124,9 +124,9 @@
 
 ~~【报名截止：9.23】[医学技术学院](https://smt.bit.edu.cn/tzgg/09c69c8da51949a98d45e0581678d823.htm)~~
 
-【报名截止：9.26】[计算机学院](https://cs.bit.edu.cn/tzgg/72d246c1da6f4a22a66d2e8c1438222d.htm)
+~~【报名截止：9.26】[计算机学院](https://cs.bit.edu.cn/tzgg/72d246c1da6f4a22a66d2e8c1438222d.htm)~~
 
-【报名截止：9.26】[2024年北京理工大学珠海校区推免生预报名（含本直博生）](https://mp.weixin.qq.com/s/xcsLuIxOQE5e0TDyFqRz8g)
+~~【报名截止：9.26】[2024年北京理工大学珠海校区推免生预报名（含本直博生）](https://mp.weixin.qq.com/s/xcsLuIxOQE5e0TDyFqRz8g)~~
 
 ~~【报名截止：9.20】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/bb017f985ad047b19a28ba8c629f8b32.htm)~~
 
@@ -287,7 +287,7 @@
 
 ## 西北工业大学
 
->【报名截止：9.26】[西北工业大学2025年接收推荐免试研究生预报名的通知](https://yzb.nwpu.edu.cn/info/1174/9288.htm)
+~~【报名截止：9.26】[西北工业大学2025年接收推荐免试研究生预报名的通知](https://yzb.nwpu.edu.cn/info/1174/9288.htm)~~
 
 ~~【报名截止：9.22】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/7768.htm)~~
 
@@ -341,11 +341,11 @@
 >
 > [北京邮电大学网络空间安全学院2025年推荐免试研究生（含硕士生和直博生）接收、复试办法](https://scss.bupt.edu.cn/info/1110/5667.htm)
 
-【报名截止：9.26】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1020/3947.htm)
+~~【报名截止：9.26】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1020/3947.htm)~~
 
-【报名截止：9.26】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2363.htm)
+~~【报名截止：9.26】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2363.htm)~~
 
-【报名截止：9.26】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5667.htm)
+~~【报名截止：9.26】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5667.htm)~~
 
 ~~【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)~~
 
@@ -469,7 +469,7 @@
 
 ## 首都师范大学
 
-【报名截止：9.26 12：00】[信息工程学院](https://iec.cnu.edu.cn/ggml/tzgg1/9182cb713f5e4bdca26849dd20634454.htm)
+~~【报名截止：9.26 12：00】[信息工程学院](https://iec.cnu.edu.cn/ggml/tzgg1/9182cb713f5e4bdca26849dd20634454.htm)~~
 
 ## 河海大学
 
@@ -597,11 +597,11 @@
 
 ## 兰州大学
 
-【报名截止：9.26】[“国优计划”专项](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2024/0907/274604.html)
+~~【报名截止：9.26】[“国优计划”专项](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2024/0907/274604.html)~~
 
 ## 同济大学
 
->【报名截止：9.26】[同济大学2025年接收推荐免试研究生（含直接攻博）预报名通知](https://yz.tongji.edu.cn/info/1010/3638.htm)
+~~【报名截止：9.26】[同济大学2025年接收推荐免试研究生（含直接攻博）预报名通知](https://yz.tongji.edu.cn/info/1010/3638.htm)~~
 
 <details>
 
@@ -617,7 +617,7 @@
 
 </details>
 
-【报名截止：9.26】[工程硕博士专项](https://yz.tongji.edu.cn/info/1010/3653.htm)
+~~【报名截止：9.26】[工程硕博士专项](https://yz.tongji.edu.cn/info/1010/3653.htm)~~
 
 【报名截止：10.7】[2025年“国优计划”推荐免试研究生预报名通知](https://yz.tongji.edu.cn/info/1010/3640.htm)
 
@@ -872,7 +872,7 @@
 
 ## 哈尔滨工程大学
 
-【报名截止：9.26】[计算机科学与技术学院](https://cstc.hrbeu.edu.cn/2024/0913/c3688a328871/page.htm)
+~~【报名截止：9.26】[计算机科学与技术学院](https://cstc.hrbeu.edu.cn/2024/0913/c3688a328871/page.htm)~~
 
 【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)
 
