@@ -369,7 +369,7 @@
 
 ~~【报名截止：9.23 10:00】[电子信息学院](http://eis.whu.edu.cn/index/newListDetail_zw?newsinfo_id=ebbbca5f42b34a699a1e9b202b5d1c05)~~
 
-【报名截止：9.27 14:00】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/98610.htm)
+~~【报名截止：9.27 14:00】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/98610.htm)~~
 
 ## 华东师范大学
 
@@ -485,7 +485,7 @@
 
 ~~【报名截止：9.22】[信息工程学院2025年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://sie.cugb.edu.cn/c/2024-09-14/809086.shtml)~~
 
-【报名截止：9.27】[](https://cs.cug.edu.cn/info/1021/6670.htm)
+~~【报名截止：9.27】[](https://cs.cug.edu.cn/info/1021/6670.htm)~~
 
 ## 西南交通大学
 
@@ -529,11 +529,11 @@
 
 ## 江南大学
 
-【报名截止：9.27】[人工智能与计算机学院（软件学院） ](https://ai.jiangnan.edu.cn/info/1020/3924.htm)
+~~【报名截止：9.27】[人工智能与计算机学院（软件学院） ](https://ai.jiangnan.edu.cn/info/1020/3924.htm)~~
 
-【报名截止：9.27】[物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3936.htm)
+~~【报名截止：9.27】[物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3936.htm)~~
 
-【报名截止：9.27】[智能制造学院](https://junyuan.jiangnan.edu.cn/info/1019/2153.htm)
+~~【报名截止：9.27】[智能制造学院](https://junyuan.jiangnan.edu.cn/info/1019/2153.htm)~~
 
 ## 辽宁大学
 
@@ -593,7 +593,7 @@
 
 ## 成都理工大学
 
-【报名截止：9.27】[计算机与网络安全学院（示范性软件学院）2025年推荐免试攻读研究生预报名通知](https://cist.cdut.edu.cn/info/1145/6534.htm)
+~~【报名截止：9.27】[计算机与网络安全学院（示范性软件学院）2025年推荐免试攻读研究生预报名通知](https://cist.cdut.edu.cn/info/1145/6534.htm)~~
 
 ## 兰州大学
 
@@ -668,7 +668,7 @@
 
 ~~【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)~~
 
-【报名截止：9.27】[重庆研究院](http://www.cigit.cas.cn/yjsjy/sszs/ssjz/202409/t20240923_7378571.html)
+~~【报名截止：9.27】[重庆研究院](http://www.cigit.cas.cn/yjsjy/sszs/ssjz/202409/t20240923_7378571.html)~~
 
 【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
 
@@ -874,9 +874,9 @@
 
 ~~【报名截止：9.26】[计算机科学与技术学院](https://cstc.hrbeu.edu.cn/2024/0913/c3688a328871/page.htm)~~
 
-【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)
+~~【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)~~
 
-【报名截止：9.27】[水声工程学院2025年接收推免生预报名及复试工作的通知](https://uae.hrbeu.edu.cn/info/1058/4589.htm)
+~~【报名截止：9.27】[水声工程学院2025年接收推免生预报名及复试工作的通知](https://uae.hrbeu.edu.cn/info/1058/4589.htm)~~
 
 ## 重庆大学
 
