@@ -134,7 +134,7 @@
 
 ~~【报名截止：9.19】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1082)~~
 
-【报名截止：9.28】[生物医学工程系](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)
+~~【报名截止：9.28】[生物医学工程系](https://mp.weixin.qq.com/s/XVR-TQauRNapWFVJJYM-nw)~~
 
 ~~【报名截止：9.15】[系统设计与智能制造学院](https://mp.weixin.qq.com/s/KHpzoQBSG6TuZ7WlYBwdRg)~~
 
@@ -457,7 +457,7 @@
 
 ## 苏州科技大学
 
->【报名截止：9.29】[苏州科技大学2025年接收推荐免试攻读硕士研究生预报名通知](https://yjsb.usts.edu.cn/info/1048/4022.htm)
+~~【报名截止：9.29】[苏州科技大学2025年接收推荐免试攻读硕士研究生预报名通知](https://yjsb.usts.edu.cn/info/1048/4022.htm)~~
 
 ## 中国石油大学
 
@@ -525,7 +525,7 @@
 
 ## 福建师范大学
 
-【报名截止：9.28】[计算机与网络空间安全学院](https://ccs.fjnu.edu.cn/_t2475/13/4e/c15003a398158/page.htm)
+~~【报名截止：9.28】[计算机与网络空间安全学院](https://ccs.fjnu.edu.cn/_t2475/13/4e/c15003a398158/page.htm)~~
 
 ## 江南大学
 
@@ -589,7 +589,7 @@
 
 ~~【报名截止：9.20】[生物医学工程学院](https://mp.weixin.qq.com/s/yM6tDoVUyTJaMHZzyAyOKg)~~
 
-【报名截止：9.28 10:00】[信息科学与技术学院2025年工程博士改革专项推免直博生第二轮报名](https://mp.weixin.qq.com/s/RGRN3aJJhMgyQWtleu8X6w)
+~~【报名截止：9.28 10:00】[信息科学与技术学院2025年工程博士改革专项推免直博生第二轮报名](https://mp.weixin.qq.com/s/RGRN3aJJhMgyQWtleu8X6w)~~
 
 ## 成都理工大学
 
@@ -784,7 +784,7 @@
 
 </details>
 
-【截止日期：9.28】[招收2025级推荐免试攻读硕士学位研究生及直接攻读博士学位研究生章程](https://yzb.tju.edu.cn/xwzx/zxxx/202409/t20240902_323894.htm)
+~~【截止日期：9.28】[招收2025级推荐免试攻读硕士学位研究生及直接攻读博士学位研究生章程](https://yzb.tju.edu.cn/xwzx/zxxx/202409/t20240902_323894.htm)~~
 
 ## 中国海洋大学
 
