@@ -670,9 +670,9 @@
 
 ~~【报名截止：9.27】[重庆研究院](http://www.cigit.cas.cn/yjsjy/sszs/ssjz/202409/t20240923_7378571.html)~~
 
-【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
+~~【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)~~
 
-【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
+~~【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)~~
 
 【报名截止：10.20】[苏州生物医学工程技术研究所](https://sibet.cas.cn/yjsjy2020/zsxx_169599/202409/t20240920_7370142.html)
 
@@ -842,13 +842,13 @@
 
 ~~【报名截止：9.2】[通信工程学院](https://ste.xidian.edu.cn/info/1337/8386.htm)~~
 
-【报名截止：9.30】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)
+~~【报名截止：9.30】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)~~
 
 ~~【报名截止：9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9854.htm)~~
 
 ~~【报名截止：9.25】[中央企业联合培养](https://gr.xidian.edu.cn/info/1074/13884.htm)~~
 
-【报名截止：9.30】[卓越工程师学院长三角基地](https://mp.weixin.qq.com/s/_IKz_8qH_TaAGZf-PG9Quw)
+~~【报名截止：9.30】[卓越工程师学院长三角基地](https://mp.weixin.qq.com/s/_IKz_8qH_TaAGZf-PG9Quw)~~
 
 ## 澳门大学
 
