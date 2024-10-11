@@ -212,7 +212,7 @@
 
 ## 海军工程大学
 
-【截止日期：10.10】[海军工程大学2025年攻读博士学位研究生招生简章](https://mp.weixin.qq.com/s/r3QyLDgJ3GTx_9Vvi4FUIA)
+~~【截止日期：10.10】[海军工程大学2025年攻读博士学位研究生招生简章](https://mp.weixin.qq.com/s/r3QyLDgJ3GTx_9Vvi4FUIA)~~
 
 ## 中山大学
 
