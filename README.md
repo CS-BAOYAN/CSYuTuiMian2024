@@ -104,7 +104,7 @@
 
 ## 航天二院（中国航天科工防御技术研究院党校）
 
-【报名截止：10.16】[航天二院（中国航天科工防御技术研究院党校）](https://mp.weixin.qq.com/s/ysBhbJxqCzSwUAOXass-0A)
+~~【报名截止：10.16】[航天二院（中国航天科工防御技术研究院党校）](https://mp.weixin.qq.com/s/ysBhbJxqCzSwUAOXass-0A)~~
 
 ## 四川大学
 
@@ -200,7 +200,7 @@
 
 ~~【截止日期：第一批8.28；第二批9.4】[空间科学与应用技术研究院（深圳）](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)~~
 
-【截止日期：N/A】[计算机科学与技术学院（威海）](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
+~~【截止日期：N/A】[计算机科学与技术学院（威海）](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)~~
 
 </details>
 
@@ -397,7 +397,7 @@
 
 > [湖南大学2025年接收推荐免试研究生（含直博生）预报名通知](http://gra.hnu.edu.cn/info/1075/9695.htm)
 
-【报名截止：N/A】[湖南大学2025年接收推荐免试研究生（含直博生）预报名通知](https://gra.hnu.edu.cn/info/1075/9695.htm)
+【报名截止：N/A】[湖南大学2025年接收推荐免试研究生（含直博生）预报名通知](http://gra.hnu.edu.cn/info/1075/9695.htm)
 
 ~~【报名截止: 9.15】[湖南大学国优计划](https://gra.hnu.edu.cn/info/1075/9696.htm)~~
 
@@ -860,7 +860,7 @@
 
 ## 澳门大学
 
-【报名截止：10.15】[澳门大学2025/2026学年招收推免免试攻读研究生(哲学博士学位及硕士学位课程) 通告](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant)
+~~【报名截止：10.15】[澳门大学2025/2026学年招收推免免试攻读研究生(哲学博士学位及硕士学位课程) 通告](https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant)~~
 
 ## 杭州师范大学
 
