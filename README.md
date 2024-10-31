@@ -120,7 +120,7 @@
 
 ## 北京理工大学
 
-【报名截止：10.20】[自动化学院](https://ac.bit.edu.cn/tzgg/e579c9b60e0443159ad202ab1db2c033.htm)
+~~【报名截止：10.20】[自动化学院](https://ac.bit.edu.cn/tzgg/e579c9b60e0443159ad202ab1db2c033.htm)~~
 
 ~~【报名截止：9.23】[医学技术学院](https://smt.bit.edu.cn/tzgg/09c69c8da51949a98d45e0581678d823.htm)~~
 
@@ -208,7 +208,7 @@
 
 ## 中国航天科工集团第三研究院第三总体设计部
 
-【截止日期：9月】[中国航天科工集团第三研究院第三总体设计部](https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ)
+~~【截止日期：9月】[中国航天科工集团第三研究院第三总体设计部](https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ)~~
 
 ## 海军工程大学
 
@@ -682,7 +682,7 @@
 
 ~~【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)~~
 
-【报名截止：10.20】[苏州生物医学工程技术研究所](https://sibet.cas.cn/yjsjy2020/zsxx_169599/202409/t20240920_7370142.html)
+~~【报名截止：10.20】[苏州生物医学工程技术研究所](https://sibet.cas.cn/yjsjy2020/zsxx_169599/202409/t20240920_7370142.html)~~
 
 ~~【报名截止：9.10】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)~~
 
