@@ -750,11 +750,11 @@
 
 ## 吉林大学
 
-【截止日期：9.23 9：00】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1229/19813.htm)
+~~【截止日期：9.23 9：00】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1229/19813.htm)~~
 
-【截止日期：9.23 9：00】[人工智能学院](https://sai.jlu.edu.cn/info/1033/4779.htm)
+~~【截止日期：9.23 9：00】[人工智能学院](https://sai.jlu.edu.cn/info/1033/4779.htm)~~
 
-【截止日期：9.23 10：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7372.htm)
+~~【截止日期：9.23 10：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7372.htm)~~
 
 ~~【截止日期：9.7】[人工智能学院-“工程硕博士校企联合培养”专项推免生](https://sai.jlu.edu.cn/info/1066/4765.htm)~~
 
